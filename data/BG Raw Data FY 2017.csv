@@ -1,0 +1,783 @@
+Response ID,Select which type of data to enter:,Outreach team member:,Date of contact:,Stakeholder's name and title:,How did they hear about the program?,Other (please specify):How did they hear about the program?,Is this stakeholder a new contact?,Who initiated the contact?,Method of interaction:,Stakeholder type:,Other (please specify)::Stakeholder type:,Was a feedback form distributed?:Complete the following:,Did the stakeholder request information?:Complete the following:,Was the stakeholder given program materials during the interaction?:Complete the following:,Date range of submission(s):,Facebook posts:Number of social media postings submitted:,Tweets:Number of social media postings submitted:,Full-length videos:Number of social media postings submitted:,Digital shorts:Number of social media postings submitted:,Livestreaming:Number of social media postings submitted:,Name of video (if applicable):,Outreach team member:,Name of event or distribution:,Date of event or distribution:,Event or distribution type:,Other (please specify):Event or distribution type:,Workforce:Number of participants:,Business:Number of participants:,CAC/CDCAB members:Number of participants:,Civic/church group members:Number of participants:,CSEPP Immediate Reaction Zone residents:Number of participants:,Elected officials:Number of participants:,Emergency management:Number of participants:,Local schools:Number of participants:,Media:Number of participants:,Oversight/regulatory agency members:Number of participants:,CSEPP Protective Action Zone residents:Number of participants:,Other:Number of participants:,Number:Information packets distributed:Complete the following:,Number:Feedback forms distributed:Complete the following:,Number:Feedback forms collected:Complete the following:
+1,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Farristown Middle School,10/14/16,Education Outreach Event,,,,,,,,,14,,,,,0,0,0
+2,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Richmond Lions Club,10/13/16,Tour,,2,,,8,,,,,,,,,0,1,1
+3,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Blue Grass Chemical Activity Managers,10/11/16,Tour,,15,,,,,,,,,,,,0,0,0
+4,Individual contact,Team Member 1,10/13/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Individual contact,Team Member 2,10/12/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Individual contact,Team Member 2,10/13/16,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Individual contact,Team Member 2,10/12/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Individual contact,Team Member 2,10/10/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Individual contact,Team Member 3,10/10/16,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,Social media submission,,,,,,,,,,,,,,10/16/2016 - 10/31/2016,9,9,,,,,,,,,,,,,,,,,,,,,,,,
+11,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,10/13/16,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+12,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,10/7/16,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+13,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,BGCAPP Fiscal Year 2017 Update Email,10/6/16,Digital communications distribution,,40,,30,,,15,10,,,25,,,0,0,0
+14,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,"Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) Public Affairs Staff",10/6/16,Tour,,15,,,,,,,,,,,,0,0,0
+15,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB Meeting Summary,10/3/16,Digital communications distribution,,,,30,,,15,10,,,22,,,0,0,0
+16,Individual contact,Team Member 2,10/7/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Individual contact,Team Member 3,10/6/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Individual contact,Team Member 3,10/6/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Telephone,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,Individual contact,Team Member 1,10/3/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Telephone,Media,,N/A,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,Individual contact,Team Member 1,10/3/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,First Presbyterian Church,10/19/16,Briefing/presentation,,,,,16,,,,,,,,,16,16,12
+22,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,In-Process Review Tour,10/18/16,Tour,,15,,,,,,,,,,,,0,0,0
+23,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Wellington Elementary School - I,10/18/16,Education Outreach Event,,,,,,,,,24,,,,,0,2,2
+24,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Wellington Elementary School - II,10/18/16,Education Outreach Event,,,,,,,,,23,,,,,0,2,2
+25,Individual contact,Team Member 4,10/20/16,"Name LastName, Title ",Outreach event,,No,The outreach team,In-person,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Individual contact,Team Member 4,10/19/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Individual contact,Team Member 1,10/19/16,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Telephone,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,Individual contact,Team Member 2,10/18/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,Individual contact,Team Member 2,10/17/16,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,Individual contact,Team Member 1,10/17/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,10/15/16,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+32,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Team Members Inspect Blue Grass Fall-Protection Equipment,10/26/16,News Article,,,,,,,,,,,,,0,0,0,0
+33,Social media submission,,,,,,,,,,,,,,10/26/16,1,1,,,,Note: for Team Members Inspect Blue Grass Fall-Protection Equipment news article,,,,,,,,,,,,,,,,,,,,
+34,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Homeland Security and Assets Protection Leaders of Tomorrow (HALT) Students,10/27/16,Tour,,,,,,,,,20,,,,,0,20,13
+35,Individual contact,Team Member 4,10/27/16,"Name LastName, Title ",Friend/family/coworker/neighbor,,No,The outreach team,In-person,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,Individual contact,Team Member 1,10/25/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,Individual contact,Team Member 4,10/25/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,Individual contact,Team Member 1,10/21/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Fire Training Goes High Tech,10/28/16,News Article,,,,,,,,,,,,,0,0,0,0
+40,Social media submission,,,,,,,,,,,,,,11/28/16,1,1,,,,Note: for Blue Grass Fire Training Goes High Tech article,,,,,,,,,,,,,,,,,,,,
+41,Social media submission,,,,,,,,,,,,,,11/01/2016 - 11/15/2016,9,9,,,,,,,,,,,,,,,,,,,,,,,,
+42,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,NAACP Freedom Fund dinner,10/29/16,Networking event,,8,112,1,,,4,,,,,,,0,0,0
+43,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP New Employee Orientation,10/24/16,Workforce event,,8,,,,,,,,,,,,0,0,0
+44,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Blue Grass Bulletin newsletter,10/27/16,Digital communications distribution,,1083,,,,,,,,,,,5,0,0,0
+45,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at BGCAPP - October 2016,10/31/16,Digital communications distribution,,968,73,30,268,589,30,30,3,,50,259,,0,0,0
+46,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Plant Starts Thermal Oxidizer Light-Off Process,11/3/16,News Article,,,,,,,,,,,,,0,0,0,0
+47,Social media submission,,,,,,,,,,,,,,11/3/16,1,1,,,,Note: for Blue Grass Plant Starts Thermal Oxidizer Light-Off Process news article,,,,,,,,,,,,,,,,,,,,
+48,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Chamber of Commerce dinner,11/3/16,Networking event,,6,,3,200,,3,,,,,,,0,0,0
+49,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,March of Dimes dinner,11/4/16,Networking event,,6,,,250,,,,,,,,,0,0,0
+50,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,American Red Cross,11/3/16,Tour,,,,,,,,6,,,,,,6,6,6
+51,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,"Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) Quarterly Brief",11/1/16,Digital communications distribution,,36,,30,,,15,15,,,25,,,0,0,0
+52,Individual contact,Team Member 1,11/4/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,Individual contact,Team Member 3,11/1/16,"Name LastName, Title ",Social Media,,Yes,The stakeholder,Telephone,Other (please specify):,College student - Canada,N/A,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54,Individual contact,Team Member 1,11/2/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Oversight/regulatory agency member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,Individual contact,Team Member 1,11/1/16,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News Clipping,11/4/16,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+57,Social media submission,,,,,,,,,,,,,,10/01/2016 - 10/15/2016,6,6,,,,,,,,,,,,,,,,,,,,,,,,
+58,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CSEPP IPT,11/2/16,Briefing/presentation,,,,,,,,30,,,,,,0,0,0
+59,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Red Cross Smoke Detector campaign,10/8/16,Networking event,,23,,,,,,3,,,,,,0,0,0
+60,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,American Cancer Society Relay for Life event,10/13/16,Networking event,,2,5,,10,,,,,,,,,0,0,0
+61,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP New employee orientation,10/24/16,Workforce event,,8,,,,,,,,,,,,8,0,0
+62,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP New employee orientation,11/7/16,Workforce event,,2,,,,,,,,,,,,2,0,0
+63,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,"Girl Scouts дус Girls in Engineering, Math and Science Event - I",11/12/16,Education Outreach Event,,,,,,,,,33,,,,,0,0,0
+64,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,"Girl Scouts дус Girls in Engineering, Math and Science Event - II",11/12/16,Education Outreach Event,,,,,,,,,34,,,,,0,0,0
+65,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Lexington Herald-Leader and The Richmond Register Interview,11/10/16,Media event,,4,,,,,,,,2,,,,0,0,0
+66,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,BGCAPP Schedule and Affordability Update Email,11/8/16,Digital communications distribution,,15,,30,,,6,,,48,15,,,0,0,0
+67,Individual contact,Team Member 4,11/9/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+68,Individual contact,Team Member 4,11/8/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69,Individual contact,Team Member 4,11/9/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+70,Individual contact,Team Member 3,11/9/16,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Telephone,CSEPP Protective Action Zone/Immediate Reaction Zone resident,,N/A,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71,Individual contact,Team Member 2,11/9/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72,Individual contact,Team Member 4,11/8/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73,Individual contact,Team Member 4,11/8/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74,Individual contact,Team Member 2,11/7/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,Social media submission,,,,,,,,,,,,,,11/12/16,1,1,,,,Note: for Pine Bluff anniversary,,,,,,,,,,,,,,,,,,,,
+76,Social media submission,,,,,,,,,,,,,,11/08/2016 or 11/11/2016,1,,,1,,Note: CSEPP Video Short,,,,,,,,,,,,,,,,,,,,
+77,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Partners Perform High-Angle Rescue Training,11/11/16,News Article,,,,,,,,,,,,,0,0,0,0
+78,Social media submission,,,,,,,,,,,,,,11/11/16,1,1,,,,Note: for Blue Grass Partners Perform High-Angle Rescue Training news article,,,,,,,,,,,,,,,,,,,,
+79,Social media submission,,,,,,,,,,,,,,11/11/16,1,,,,,Note: for Johnston Atoll  anniversary,,,,,,,,,,,,,,,,,,,,
+80,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Farristown Middle School Career Showcase,11/18/16,Education Outreach Event,,,,,,,,,97,,,,,0,0,0
+81,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Bechtel Parsons Blue Grass (BPBG) Vendor Forum,11/16/16,Information booth/exhibit,,,80,,,,,,,,,,,0,0,0
+82,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Notification,11/15/16,Digital communications distribution,,36,,30,,,6,6,,,20,,,0,0,0
+83,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB Meeting Advertisements - Berea Citizen,11/15/16,Advertisement,,,,,,,,,,0,,,,0,0,0
+84,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB Meeting Advertisements - The Richmond Register,11/15/16,Advertisement,,,,,,,,,,0,,,,0,0,0
+85,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB Meeting Advertisements - Local Cable,11/15/16,Advertisement,,,,,,,,,,0,,,,0,0,0
+86,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB Meeting Advertisements - Public Service,11/15/16,Advertisement,,,,,,,,,,0,,,,0,0,0
+87,Individual contact,Team Member 4,11/18/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88,Individual contact,Team Member 4,11/18/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Telephone,Emergency management,,N/A,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89,Individual contact,Team Member 2,11/18/16,"Name LastName, Title ",Outreach event,,No,The outreach team,In-person,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90,Individual contact,Team Member 2,11/17/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+91,Individual contact,Team Member 1,11/14/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,Individual contact,Team Member 2,11/14/16,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93,Social media submission,,,,,,,,,,,,,,11/16/2016 - 11/30/2016,7,7,,1,,Note: for Blue Grass-Specific Equipment Testing: Rocket Cutting Machine video short,,,,,,,,,,,,,,,,,,,,
+94,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,11/16/16,Digital communications distribution,,36,,30,,,6,6,,,20,,,0,0,0
+95,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,11/15/16,Digital communications distribution,,36,,30,,,6,6,,,20,,,0,0,0
+96,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,11/14/16,Digital communications distribution,,36,,30,,,6,6,,,20,,,0,0,0
+97,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,11/11/16,Digital communications distribution,,36,,30,,,6,6,,,20,,,0,0,0
+98,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,11/10/16,Digital communications distribution,,36,,30,,,6,6,,,20,,,0,0,0
+99,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Madison County Business Education Partnership Career Day,11/14/16,Networking event,,12,10,,3,,,,1,,,,,0,0,0
+100,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP New Employee Orientation,11/21/16,Workforce event,,3,,,,,,,,,,,,3,0,0
+101,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Plant Hosts Vendor Forum,11/23/16,News Article,,,,,,,,,,,,,0,0,0,0
+102,Social media submission,,,,,,,,,,,,,,11/23/16,1,1,,,,Note: for Blue Grass Plant Hosts Vendor Forum news article,,,,,,,,,,,,,,,,,,,,
+103,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,National Academies,11/16/16,Briefing/presentation,,,,,,,,,,,30,,,0,0,0
+104,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Farristown Middle School - I,11/21/16,Education Outreach Event,,,,,,,,,33,,,,,0,0,0
+105,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Farristown Middle School - II,11/21/16,Education Outreach Event,,,,,,,,,32,,,,,0,0,0
+106,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Farristown Middle School - III,11/21/16,Education Outreach Event,,,,,,,,,32,,,,,0,0,0
+107,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Farristown Middle School - IV,11/21/16,Education Outreach Event,,,,,,,,,32,,,,,0,0,0
+108,Individual contact,Team Member 4,11/23/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Telephone,CAC/CDCAB member,,N/A,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+109,Individual contact,Team Member 4,11/23/16,"Name LastName, Title ",Friend/family/coworker/neighbor,,Yes,The stakeholder,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+110,Individual contact,Team Member 2,11/22/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+111,Individual contact,Team Member 2,11/21/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+112,Individual contact,Team Member 1,11/21/16,"Name LastName, Title ",Friend/family/coworker/neighbor,,Yes,The stakeholder,Telephone,CSEPP Protective Action Zone/Immediate Reaction Zone resident,,N/A,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+113,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Cost Analysis and Program Evaluation Office,12/1/16,Tour,,3,,,,,,,,,6,,,0,0,0
+114,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Glenn Marshall Elementary School,12/1/16,Education Outreach Event,,,,,,,,,25,,,,,0,0,0
+115,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Glenn Marshall Elementary School,11/30/16,Education Outreach Event,,,,,,,,,19,,,,,0,0,0
+116,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at BGCAPP - November 2016,11/30/16,Digital communications distribution,,1699,15,30,176,248,15,25,3,,35,78,,0,0,0
+117,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Glenn Marshall Elementary School,11/29/16,Education Outreach Event,,,,,,,,,22,,,,,0,0,0
+118,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Glenn Marshall Elementary School,11/28/16,Education Outreach Event,,,,,,,,,25,,,,,0,0,0
+119,Individual contact,Team Member 2,11/30/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+120,Individual contact,Team Member 4,11/30/16,"Name LastName, Title ",Friend/family/coworker/neighbor,,No,The stakeholder,Digital communication,Emergency management,,N/A,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+121,Individual contact,Team Member 4,11/29/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+122,Social media submission,,,,,,,,,,,,,,12/1/16,1,1,,1,,Note: for Rocket Cutting Machine video short,,,,,,,,,,,,,,,,,,,,
+123,Social media submission,,,,,,,,,,,,,,12/1/16,1,1,,,,Note: for  Blue Grass Team Member Receives Top Army Acquisition Honor  article,,,,,,,,,,,,,,,,,,,,
+124,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Team Member Receives Top Army Acquisition Honor  news article,12/1/16,News Article,,,,,,,,,,,,,0,0,0,0
+125,Social media submission,,,,,,,,,,,,,,12/01/2016 - 12/15/2016,15,15,,,,,,,,,,,,,,,,,,,,,,,,
+126,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,11/29/16,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+127,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Affordability Workforce Message,10/20/16,Workforce event,,962,,,,,,,,,,,,0,0,0
+128,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,"Blue Grass Team Develops Simulator, Saves Project Funds",12/7/16,News Article,,,,,,,,,,,,,0,0,0,0
+129,Social media submission,,,,,,,,,,,,,,12/7/16,1,1,,,,"Note: forBlue Grass Team Develops Simulator, Saves Project Funds news article",,,,,,,,,,,,,,,,,,,,
+130,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Team Member Receives Army Acquisition Honor,12/9/16,News Article,,,,,,,,,,,,,0,0,0,0
+131,Social media submission,,,,,,,,,,,,,,12/9/16,1,1,,,,Note: for Blue Grass Team Member Receives Army Acquisition Honor news article,,,,,,,,,,,,,,,,,,,,
+132,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Solid Waste Coordinators of Kentucky,12/8/16,Briefing/presentation,,2,,,31,,,,,,,,,31,31,30
+133,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Pueblo Chemical Depot (PCD) Commander,12/8/16,Tour,,2,,,,,,,,,,,,0,0,0
+134,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Reminder,12/7/16,Digital communications distribution,,35,,30,,,6,6,,,15,,,0,0,0
+135,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB News Release,12/7/16,News release,,20,,30,,,,,,44,,,,0,0,0
+136,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,BGCAPP Talking Points,12/6/16,Digital communications distribution,,,,,,,,4,,,,,,0,0,0
+137,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Lexington Herald-Leader Reporter,12/5/16,Tour,,2,,,,,,,,1,,,,0,0,0
+138,Individual contact,Team Member 2,12/9/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+139,Individual contact,Team Member 1,12/7/16,"Name LastName, Title ",Friend/family/coworker/neighbor,,No,The outreach team,In-person,Emergency management,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+140,Individual contact,Team Member 3,12/7/16,"Name LastName, Title ",Outreach event,,Don't know,The stakeholder,Digital communication,Civic/church group member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+141,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Blue Grass Team Donates to Benefit Soldiers,12/14/16,News Article,,,,,,,,,,,,,0,0,0,0
+142,Social media submission,,,,,,,,,,,,,,12/14/16,1,1,,,,Note: for Blue Grass Team Donates to Benefit Soldiers news article,,,,,,,,,,,,,,,,,,,,
+143,Social media submission,,,,,,,,,,,,,,12/15/16,1,1,1,,,Note: Kentucky Chemical Weapons Destruction: 2016 Year in Review video,,,,,,,,,,,,,,,,,,,,
+144,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Medical Staff Goes to 24/7 Response,12/16/16,News Article,,,,,,,,,,,,,0,0,0,0
+145,Social media submission,,,,,,,,,,,,,,12/16/16,1,1,,,,Note: for Blue Grass Medical Staff Goes to 24/7 Response article,,,,,,,,,,,,,,,,,,,,
+146,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Rebroadcast,12/16/16,Digital communications distribution,,35,,30,,,2,,,,,,,0,0,0
+147,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,CAC/CDCAB,12/14/16,CAC/CDCAB (or subcommittee)/advisory board meeting,,20,,20,,,2,2,,,15,,,59,59,3
+148,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB Media Advisory,12/13/16,News release,,8,,,,,,,,44,,,,0,0,0
+149,Individual contact,Team Member 1,12/16/16,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Telephone,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+150,Individual contact,Team Member 3,12/14/16,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Telephone,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+151,Individual contact,Team Member 4,12/16/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+152,Individual contact,Team Member 1,12/15/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+153,Individual contact,Team Member 2,12/13/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,In-person,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+154,Individual contact,Team Member 4,12/12/16,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Oversight/regulatory agency member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+155,Social media submission,,,,,,,,,,,,,,12/15/2016 - 12/31/2016,13,13,,,,,,,,,,,,,,,,,,,,,,,,
+156,Social media submission,,,,,,,,,,,,,,12/15/16,1,,,,,Note: for ad hoc Facebook: Pueblo Chemical Depot commander visit,,,,,,,,,,,,,,,,,,,,
+157,Event or information distribution,,,,,,,,,,,,,,MM/DD/2016 or MM/DD/2016 - MM/DD/2016,,,,,,,Team Member 1,News clipping,12/14/16,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+158,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Explosive Destruction Technology Postponed,12/21/16,News Article,,,,,,,,,,,,,0,0,0,0
+159,Social media submission,,,,,,,,,,,,,,12/21/16,1,1,,,,Note: for Blue Grass Explosive Destruction Technology Postponed,,,,,,,,,,,,,,,,,,,,
+160,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,"Blue Grass Plant Leaders Track Year's Progress, Preview 2017",12/21/16,News Article,,,,,,,,,,,,,0,0,0,0
+161,Social media submission,,,,,,,,,,,,,,12/21/16,1,1,,,,"Note: for Blue Grass Plant Leaders Track Year's Progress, Preview 2017 news article",,,,,,,,,,,,,,,,,,,,
+162,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP Project Update email distribution,10/31/16,Workforce event,,955,,,,,,,,,,,,0,0,0
+163,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP Bulletiin newsletter,12/20/16,Digital communications distribution,,1016,,,,,,,,,,,5,0,0,0
+164,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,"Blue Grass Boiler Passes Start-Up Test, Now Online",12/21/16,News Article,,,,,,,,,,,,,0,0,0,0
+165,Social media submission,,,,,,,,,,,,,,12/21/16,1,1,,,,"Note: for Blue Grass Boiler Passes Start-Up Test, Now Online news article",,,,,,,,,,,,,,,,,,,,
+166,Social media submission,,,,,,,,,,,,,,12/14/16,,,,,1,CAC/CDCAB Meeting,,,,,,,,,,,,,,,,,,,,
+167,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News Clipping,12/21/16,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+168,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at BGCAPP дус December 2016,12/30/16,Digital communications distribution,,1218,12,30,448,375,15,10,5,,25,181,,0,0,0
+169,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Blue Grass Bulletin Newsletter,11/30/16,Digital communications distribution,,1060,,,,,,,,,,,5,0,0,0
+170,Individual contact,Team Member 4,12/22/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+171,Individual contact,Team Member 1,12/19/16,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+172,Individual contact,Team Member 1,1/19/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+173,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Summary,1/3/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+174,Individual contact,Team Member 1,1/5/17,"Name LastName, Title ",Friend/family/coworker/neighbor,,Yes,The outreach team,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+175,Individual contact,Team Member 2,1/5/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+176,Individual contact,Team Member 4,1/3/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+177,Individual contact,Team Member 4,12/31/16,"Name LastName, Title ",Social Media,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+178,Social media submission,,,,,,,,,,,,,,01/01/2017 - 01/15/2017,9,9,,,,,,,,,,,,,,,,,,,,,,,,
+179,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,1/2/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+180,Individual contact,Team Member 1,1/13/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+181,Individual contact,Team Member 1,1/13/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+182,Individual contact,Team Member 2,1/12/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+183,Individual contact,Team Member 3,1/11/17,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Digital communication,Civic/church group member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+184,Individual contact,Team Member 4,1/9/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+185,Individual contact,Team Member 4,1/9/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+186,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Richmond Chamber Legislative Breakfast,1/12/17,Networking event,,1,16,2,,,6,,,,,,,0,0,0
+187,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Madison County School Board,1/12/17,Networking event,,2,,,,,,,15,,,,,0,0,0
+188,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Commerce Lexington annual dinner,1/26/17,Networking event,,7,900,,25,,10,,,,,,,0,0,0
+189,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Madison County Circuit Court Judges and Personnel,1/26/17,Tour,,4,,,,,6,,,,,,,0,6,5
+190,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Engineers Week Invitation,1/23/17,Digital communications distribution,,,,,,,,,30,,,,,0,0,0
+191,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,"Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) Quarterly Brief",1/23/17,Digital communications distribution,,59,,30,,,10,10,,,30,,,0,0,0
+192,Individual contact,Team Member 4,1/26/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+193,Individual contact,Team Member 4,1/27/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+194,Individual contact,Team Member 2,1/27/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+195,Individual contact,Team Member 4,1/24/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Telephone,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+196,Individual contact,Team Member 2,1/24/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+197,Individual contact,Team Member 2,1/24/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+198,Individual contact,Team Member 2,1/24/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+199,Individual contact,Team Member 2,1/24/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+200,Individual contact,Team Member 2,1/24/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Clips,1/23/17,Digital communications distribution,,291,,,,,,2,,,7,,,0,0,0
+202,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Clips,1/16/17,Digital communications distribution,,291,,,,,,2,,,7,,,0,0,0
+203,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Clips,1/9/17,Digital communications distribution,,291,,,,,,2,,,7,,,0,0,0
+204,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Team Pressure Tests Piping,1/25/17,News Article,,,,,,,,,,,,,0,0,0,0
+205,Social media submission,,,,,,,,,,,,,,1/25/17,1,1,,,,Note: for Blue Grass Team Pressure Tests Piping news article,,,,,,,,,,,,,,,,,,,,
+206,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,News clipping,1/25/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+207,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,News clipping,1/24/17,Digital communications distribution,,35,,30,,,6,6,,,25,,,0,0,0
+208,Individual contact,Team Member 4,1/18/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+209,Individual contact,Team Member 4,1/17/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+210,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News Clipping,1/12/17,Digital communications distribution,,35,,30,,,6,6,,,25,,,0,0,0
+211,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP workforce message,1/30/17,Workforce event,,872,,,,,,,,,,,,0,0,0
+212,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Bluegrass Tomorrow annual awards,1/31/17,Networking event,,7,150,1,,,1,,,,,,,0,0,0
+213,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Heart Association Breakfast,2/1/17,Networking event,,5,30,,,,,,,,,,,0,0,0
+214,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Richmond State-of-the-City Address,2/2/17,Networking event,,,100,,,,6,,,,,,,0,0,0
+215,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,This Month at BGCAPP дус January 2017,1/31/17,Digital communications distribution,,1560,68,30,98,357,15,25,3,,30,164,,0,0,0
+216,Individual contact,Team Member 4,1/30/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+217,Individual contact,Team Member 2,2/3/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+218,Individual contact,Team Member 1,2/2/17,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+219,Individual contact,Team Member 2,2/1/17,"Name LastName, Title ",Outreach event,,Don't know,The outreach team,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+220,Individual contact,Team Member 1,2/1/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+221,Individual contact,Team Member 1,1/31/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+222,Individual contact,Team Member 2,1/31/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Civic/church group member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223,Individual contact,Team Member 2,1/31/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224,Social media submission,,,,,,,,,,,,,,02/01/2017 - 02/15/2017,6,6,,,,,,,,,,,,,,,,,,,,,,,,
+225,Social media submission,,,,,,,,,,,,,,2/2/17,1,1,,,,Note: for Blue Grass Army Depot to Continue After Chemical Weapons Destruction article,,,,,,,,,,,,,,,,,,,,
+226,Social media submission,,,,,,,,,,,,,,2/3/17,1,2,,,,Note: for Army Environmental Team Visits Blue Grass Plant article,,,,,,,,,,,,,,,,,,,,
+227,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News Clipping,1/31/17,Digital communications distribution,,35,,30,,,6,6,,,15,,,0,0,0
+228,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Clips,1/30/17,Digital communications distribution,,391,,,,,,2,,,7,,,0,0,0
+229,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Bluegrass Tomorrow,1/31/17,Networking event,,5,250,1,,,4,,,,,,,0,0,0
+230,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Officials: Kentucky Depot Has Lasting Mission,1/26/17,News Article,,,,,,,,,,,,,0,0,0,0
+231,Social media submission,,,,,,,,,,,,,,1/25/17,1,1,,,,Note: for Officials: Kentucky Depot Has Lasting Mission news article,,,,,,,,,,,,,,,,,,,,
+232,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Army Environmental Assessment Team Visits Blue Grass Plant,2/2/17,News Article,,,,,,,,,,,,,0,0,0,0
+233,Social media submission,,,,,,,,,,,,,,2/2/17,1,1,,,,Note: for Army Environmental Assessment Team Visits Blue Grass Plant news article,,,,,,,,,,,,,,,,,,,,
+234,Social media submission,,,,,,,,,,,,,,01/16/2017 - 01/31/2017,7,7,,,,,,,,,,,,,,,,,,,,,,,,
+235,Social media submission,,,,,,,,,,,,,,1/15/17,3,,,,,Note: Posts for TOCDF Anniversary,,,,,,,,,,,,,,,,,,,,
+236,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Blue Grass Bulletin,1/31/17,Digital communications distribution,,964,,,,,,,,,,,6,0,0,0
+239,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Richmond Chamber Kickoff,2/6/17,Information booth/exhibit,,1,175,1,,,,,,,,,,0,0,0
+240,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Fayette County Science Fair,2/10/17,Networking event,,4,,,,,,,10,,,,,0,0,0
+241,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Fayette County Science Fair,2/11/17,Networking event,,7,,,,,,2,250,2,,,,0,0,0
+242,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Advertisements - The Richmond Register,2/8/17,Advertisement,,,,,,,,,,0,,,,0,0,0
+243,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Advertisements - The Berea Citizen,2/8/17,Advertisement,,,,,,,,,,0,,,,0,0,0
+244,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Advertisements - PSA,2/8/17,Advertisement,,,,,,,,,,0,,,,0,0,0
+245,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Advertisements - Local Cable,2/8/17,Advertisement,,,,,,,,,,0,,,,0,0,0
+246,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CAC/CDCAB Meeting Reminder,2/8/17,Digital communications distribution,,35,,30,,,10,6,,,,,,0,0,0
+247,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Waco Elementary School - I,2/8/17,Education Outreach Event,,,,,,,,,25,,,,,0,0,0
+248,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Waco Elementary School - II,2/8/17,Education Outreach Event,,,,,,,,,25,,,,,0,0,0
+249,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Waco Elementary School - III,2/8/17,Education Outreach Event,,,,,,,,,25,,,,,0,0,0
+250,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Richmond Chamber of Commerce Annual Kick-off Meeting,2/6/17,Information booth/exhibit,,3,50,,,,,,,,,,,5,0,0
+251,Individual contact,Team Member 1,2/9/17,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Telephone,Civic/church group member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+252,Individual contact,Team Member 3,2/9/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+253,Individual contact,Team Member 1,2/8/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+254,Individual contact,Team Member 4,2/8/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+255,Individual contact,Team Member 2,2/6/17,"Name LastName, Title ",Outreach event,,Don't know,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+256,Individual contact,Team Member 2,2/6/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+258,Individual contact,Team Member 4,2/6/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Oversight/regulatory agency member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+264,Social media submission,,,,,,,,,,,,,,2/7/17,3,,,,,Note: for  Aberdeen Chemical Agent Disposal Facility end-of-operations anniversary,,,,,,,,,,,,,,,,,,,,
+265,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Leadership Central Kentucky,2/15/17,Tour,,,21,,,,,,,,,,,0,21,19
+266,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Organisation for the Prohibition of Chemical Weapons (OPCW) Executive Council (EC) Meet and Greet Invitation,2/15/17,Digital communications distribution,,20,,30,,,8,6,,,11,,,0,0,0
+267,Individual contact,Team Member 1,2/16/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+268,Individual contact,Team Member 2,2/18/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+269,Individual contact,Team Member 2,2/17/17,"Name LastName, Title ",Friend/family/coworker/neighbor,,No,The stakeholder,Outreach office visitor/walk-in,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+270,Individual contact,Team Member 2,2/17/17,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+271,Individual contact,Team Member 2,2/15/17,"Name LastName, Title ",Outreach event,,No,The outreach team,In-person,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+272,Individual contact,Team Member 3,2/15/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Telephone,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+273,Individual contact,Team Member 1,2/15/17,"Name LastName, Title ",Friend/family/coworker/neighbor,,No,The stakeholder,Outreach office visitor/walk-in,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+274,Individual contact,Team Member 4,2/14/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+275,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Paramedics Earn Army Recognition,2/16/17,News Article,,,,,,,,,,,,,0,0,0,0
+277,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Teams Work Together to Save Project Money,2/16/17,News Article,,,,,,,,,,,,,0,0,0,0
+279,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Kentucky CSEPP Integrated Process Team Meeting,2/15/17,Briefing/presentation,,,,,,,,20,,,,,,0,0,0
+280,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Richmond Chamber of Commerce Board of Directors,2/15/17,Briefing/presentation,,,15,,,,,,,,,,,15,0,0
+281,Social media submission,,,,,,,,,,,,,,2/17/17,1,1,,1,,Note: Meet Boiler Betty,,,,,,,,,,,,,,,,,,,,
+282,Social media submission,,,,,,,,,,,,,,2/17/17,1,1,,1,,Note: for Piping Pressure Builds at the Blue Grass Plant,,,,,,,,,,,,,,,,,,,,
+283,Social media submission,,,,,,,,,,,,,,02/20/2017 - 02/24/2017,8,8,,,,,,,,,,,,,,,,,,,,,,,,
+284,Social media submission,,,,,,,,,,,,,,02/16/2017 - 02/28/2017,8,8,,,,,,,,,,,,,,,,,,,,,,,,
+285,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,The Family Center,2/18/17,Education Outreach Event,,,,,,,,,23,,,,,0,0,0
+286,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,U.S. Army Safety and Occupational Health Course,2/23/17,Tour,,,,,,,,,32,,,,,0,32,26
+287,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Paint Lick Elementary School - I,2/21/17,Education Outreach Event,,,,,,,,,21,,,,,0,0,0
+288,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Paint Lick Elementary School,2/21/17,Education Outreach Event,,,,,,,,,21,,,,,0,0,0
+289,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Paint Lick Elementary School,2/21/17,Education Outreach Event,,,,,,,,,21,,,,,0,0,0
+290,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Shannon Johnson Elementary School - I,2/20/17,Education Outreach Event,,,,,,,,,27,,,,,0,0,0
+291,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Shannon Johnson Elementary School - II,2/20/17,Education Outreach Event,,,,,,,,,26,,,,,0,0,0
+292,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Shannon Johnson Elementary School - III,2/20/17,Education Outreach Event,,,,,,,,,26,,,,,0,0,0
+293,Individual contact,Team Member 1,2/23/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Telephone,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+294,Individual contact,Team Member 1,2/23/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+295,Individual contact,Team Member 4,2/24/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+296,Individual contact,Team Member 4,2/23/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+297,Individual contact,Team Member 1,2/21/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+298,Individual contact,Team Member 2,2/20/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+299,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Technicians Test Plant Fire-Alarm Systems,2/23/17,News Article,,,,,,,,,,,,,0,0,0,0
+300,Social media submission,,,,,,,,,,,,,,2/23/17,1,2,,,,Note: for Blue Grass Technicians Test Plant Fire-Alarm Systems  news article,,,,,,,,,,,,,,,,,,,,
+301,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Engineers Week-Waco Elementary,2/20/17,Education Outreach Event,,1,,,,,,,78,,,,,0,0,0
+303,Social media submission,,,,,,,,,,,,,,2/18/17,1,2,,,,Note: for Blue Grass Paramedics Earn Army Recognition  article,,,,,,,,,,,,,,,,,,,,
+304,Social media submission,,,,,,,,,,,,,,2/17/17,1,2,,,,Note: for Blue Grass Teams Work Together to Save Project Money article,,,,,,,,,,,,,,,,,,,,
+305,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Engineers Week Clark-Moores Middle School,2/22/17,Education Outreach Event,,1,,,,,,,60,,,,,0,0,0
+306,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Engineers Week-Whitehall Elementary School,2/24/17,Education Outreach Event,,2,,,,,,,75,,,,,0,0,0
+307,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Blue Grass Bulletin distribution,2/28/17,Digital communications distribution,,933,,,,,,,,,,,6,0,0,0
+308,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Clips,2/6/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+309,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Clips,3/13/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+310,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Clips,2/20/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+311,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Clips,2/27/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+312,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,RCRA Class 1 Public Notice,2/7/17,Digital communications distribution,,,,,,,,,,,,,260,0,0,0
+313,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP New Employee Orientation,1/9/17,Workforce event,,1,,,,,,,,,,,,1,,
+314,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Economic Development Working Group,3/3/17,CAC/CDCAB (or subcommittee)/advisory board meeting,,,,1,,,,1,,,,,,0,0,0
+315,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,BGCAPP Talking Points,3/1/17,Digital communications distribution,,,,,,,4,,,,,,,0,0,0
+316,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Notification,3/1/17,Digital communications distribution,,16,,30,,,6,6,,,10,,,0,0,0
+317,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at BGCAPP дус February 2017,2/28/17,Digital communications distribution,,1264,88,30,268,411,15,10,3,,20,252,,0,0,0
+318,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Richmond City Council Meeting,2/28/17,Briefing/presentation,,3,,1,,,9,,,,,,,0,0,0
+319,Individual contact,Team Member 4,3/2/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+320,Individual contact,Team Member 1,3/2/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+321,Individual contact,Team Member 4,3/2/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+322,Individual contact,Team Member 2,3/1/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+323,Individual contact,Team Member 1,2/28/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+324,Individual contact,Team Member 4,2/28/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+325,Individual contact,Team Member 1,2/27/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+326,Individual contact,Team Member 4,2/27/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Telephone,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+327,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News,2/27/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+329,Social media submission,,,,,,,,,,,,,,03/01/2017 - 03/15/2017,10,10,,,,,,,,,,,,,,,,,,,,,,,,
+330,Social media submission,,,,,,,,,,,,,,3/3/17,6,6,,,,Note:  March 1-31 for Women's History Month,,,,,,,,,,,,,,,,,,,,
+331,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,2/28/17,Digital communications distribution,,36,,30,,,6,6,,,20,,,0,0,0
+332,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping - II,2/28/17,Digital communications distribution,,36,,30,,,6,6,,,20,,,0,0,0
+333,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,2/26/17,Digital communications distribution,,36,,30,,,6,6,,,20,,,0,0,0
+334,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Rebroadcast,3/9/17,Digital communications distribution,,35,,30,,,6,6,,,10,,,0,0,0
+335,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,CAC/CDCAB,3/8/17,CAC/CDCAB (or subcommittee)/advisory board meeting,,35,,28,,,2,,,2,15,,,0,0,0
+336,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB Media Advisory,3/7/17,News release,,,,,,,,,,0,,,,0,0,0
+337,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Berea City Council Meeting,3/7/17,Networking event,,3,,1,,,10,,,,,,,0,0,0
+338,Individual contact,Team Member 4,3/10/17,"Name LastName, Title ",Friend/family/coworker/neighbor,,Yes,The stakeholder,Digital communication,CSEPP Protective Action Zone/Immediate Reaction Zone resident,,N/A,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+339,Individual contact,Team Member 4,3/10/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+340,Individual contact,Team Member 4,3/9/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+341,Individual contact,Team Member 4,3/9/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+342,Individual contact,Team Member 4,3/7/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+343,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Team Looks to Sister Site Toward Operations,3/8/17,News Article,,,,,,,,,,,,,0,0,0,0
+344,Social media submission,,,,,,,,,,,,,,3/9/17,1,2,,,,Note: for Blue Grass Team Looks to Sister Site Toward Operations news article,,,,,,,,,,,,,,,,,,,,
+345,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,"Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) Weekly News Distribution",3/6/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+346,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping I,3/1/17,Digital communications distribution,,35,,30,,,6,6,,,25,,,0,0,0
+347,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping II,3/8/17,Digital communications distribution,,35,,30,,,6,6,,,25,,,0,0,0
+348,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Cost Analysis and Program Evaluation Office,3/16/17,Tour,,,,,,,,,,,2,,,0,0,0
+349,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Glenn Marshall Elementary School (GMES) Career Day,3/16/17,Education Outreach Event,,,,,,,,,146,,,,,0,0,0
+350,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Madison County Fiscal Court Meeting,3/14/17,Networking event,,1,,,,,8,,,,,,,0,0,0
+351,Individual contact,Team Member 1,3/15/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+352,Individual contact,Team Member 1,3/15/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+353,Individual contact,Team Member 1,3/15/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+354,Individual contact,Team Member 1,3/15/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+355,Individual contact,Team Member 1,3/15/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+356,Individual contact,Team Member 4,3/14/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+357,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Management Provides Schedule Update  News Article,3/14/17,News Article,,,,,,,,,,,,,0,0,0,0
+358,Social media submission,,,,,,,,,,,,,,3/13/17,1,2,,,,Note: for Blue Grass Management Provides Schedule Update news article,,,,,,,,,,,,,,,,,,,,
+359,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,"Program Leader Bids Bluegrass Farewell, Offers Advice for Future News Article",3/15/17,News Article,,,,,,,,,,,,,0,0,0,0
+360,Social media submission,,,,,,,,,,,,,,3/15/17,1,2,,,,"Note: for Program Leader Bids Bluegrass Farewell, Offers Advice for Future news article",,,,,,,,,,,,,,,,,,,,
+361,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Distribution,3/13/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+362,Social media submission,,,,,,,,,,,,,,03/16/2017 - 03/31/2017,9,8,,,,,,,,,,,,,,,,,,,,,,,,
+363,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,3/17/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+364,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,3/14/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+365,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Berea Victory Garden Blitz,3/24/17,Networking event,,4,,,4,,,,,,,,5,0,0,0
+366,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Program Executive Officer Letter to Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Members,3/24/17,Digital communications distribution,,10,,30,,,,,,,,,,0,0,0
+367,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Safe and Sound Radio Interview,3/22/17,Media event,,3,,,,,,1,,1,,,,0,0,0
+368,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Kentucky Council on Military Affairs Executive Director,3/22/17,Briefing/presentation,,2,,,,,,,,,2,,,0,0,0
+369,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Federal Emergency Management Agency (FEMA) Region IV Chief,3/20/17,Tour,,3,,,,,,1,,,,,,0,0,0
+370,Individual contact,Team Member 1,3/23/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+371,Individual contact,Team Member 1,3/23/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+372,Individual contact,Team Member 4,3/24/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Telephone,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+373,Individual contact,Team Member 2,3/21/17,"Name LastName, Title ",Friend/family/coworker/neighbor,,Yes,The stakeholder,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+374,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Processing Equipment Makes First Move,3/23/17,News Article,,,,,,,,,,,,,0,0,0,0
+375,Social media submission,,,,,,,,,,,,,,3/23/17,1,2,,,,Note: for Blue Grass Processing Equipment Makes First Move news article,,,,,,,,,,,,,,,,,,,,
+376,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Technicians Calibrate Plant Instrumentation,3/23/17,News Article,,,,,,,,,,,,,0,0,0,0
+377,Social media submission,,,,,,,,,,,,,,3/23/17,1,2,,,,Note: for  Blue Grass Technicians Calibrate Plant Instrumentation news article,,,,,,,,,,,,,,,,,,,,
+378,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News,3/20/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+379,Social media submission,,,,,,,,,,,,,,3/23/17,1,,,,,Note: ad-hoc FEMA Region IV tour,,,,,,,,,,,,,,,,,,,,
+380,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,3/23/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+381,Social media submission,,,,,,,,,,,,,,3/27/17,1,1,,1,,Note: For Smoke Machine Helps Test Blue Grass Plant Ventilation System(video short),,,,,,,,,,,,,,,,,,,,
+382,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Rosenwald-Dunbar Elementary School,3/31/17,Information booth/exhibit,,,,,,,,,177,,,,,0,0,0
+383,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,This Month at BGCAPP дус March 2017,3/31/17,Digital communications distribution,,947,68,30,189,458,15,10,8,,25,319,,0,0,0
+384,Individual contact,Team Member 4,3/31/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+385,Individual contact,Team Member 1,3/29/17,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Telephone,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+386,Individual contact,Team Member 1,3/29/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+387,Individual contact,Team Member 1,3/28/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+388,Individual contact,Team Member 2,3/27/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+389,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Technicians Test Blue Grass Rocket Shear Machine,3/29/17,News Article,,,,,,,,,,,,,0,0,0,0
+390,Social media submission,,,,,,,,,,,,,,3/27/17,1,2,,,,Note: for Technicians Test Blue Grass Rocket Shear Machine news article,,,,,,,,,,,,,,,,,,,,
+391,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Eastern KY University presentation,3/29/17,Briefing/presentation,,7,,,,,,,35,,,,,0,0,0
+392,Social media submission,,,,,,,,,,,,,,3/29/17,1,1,1,,,Note: for Blue Grass Maintenance at Work video,,,,,,,,,,,,,,,,,,,,
+393,Social media submission,,,,,,,,,,,,,,3/27/17,1,1,,1,,Note: for  Smoke Machine Helps Test Blue Grass Plant Ventilation System video,,,,,,,,,,,,,,,,,,,,
+394,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,"Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) Weekly News Distribution",3/27/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+395,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Daniel Boone Elementary School Career Day,3/30/17,Briefing/presentation,,1,,,,,,,132,,,,,0,0,0
+396,Social media submission,,,,,,,,,,,,,,04/01/2017 - 04/15/2017,19,8,,,,,,,,,,,,,,,,,,,,,,,,
+397,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Blue Grass Bulletin distribution,3/30/17,Digital communications distribution,,917,,,,,,,,,,,6,0,0,0
+398,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News,3/6/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+399,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News,3/27/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+400,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,3/8/17,Digital communications distribution,,35,30,,,,6,6,,,20,,,0,0,0
+401,Social media submission,,,,,,,,,,,,,,3/8/17,,,,,1,Note: for CAC/CDCAB meeting,,,,,,,,,,,,,,,,,,,,
+402,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Organisation for the Prohibition of Chemical Weapons (OPCW) Executive Council (EC) Visit,4/4/17,Tour,,,,,,,,,,,48,,,0,0,0
+403,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Centers for Disease Control,4/4/17,Briefing/presentation,,,,,,,,8,,,,,,0,0,0
+404,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CAC/CDCAB Meeting Summary,4/4/17,Digital communications distribution,,35,,30,,,6,6,,,15,,,0,0,0
+405,Individual contact,Team Member 4,4/7/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Telephone,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+406,Individual contact,Team Member 4,4/7/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+407,Individual contact,Team Member 3,4/6/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+408,Individual contact,Team Member 4,4/6/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+409,Individual contact,Team Member 2,4/5/17,"Name LastName, Title ",Outreach event,,No,The outreach team,In-person,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+410,Individual contact,Team Member 1,4/4/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+411,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News,4/3/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+412,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News Clip,4/7/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+413,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News Clip,3/31/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+414,Individual contact,Team Member 4,4/11/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+415,Individual contact,Team Member 2,4/13/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Civic/church group member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+416,Individual contact,Team Member 4,4/11/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+417,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Explosive Destruction Technology Receives Safety Approval,4/11/17,News Article,,,,,,,,,,,,,0,0,0,0
+418,Social media submission,,,,,,,,,,,,,,4/11/17,1,2,,,,Note: for Blue Grass Explosive Destruction Technology Receives Safety Approval news article,,,,,,,,,,,,,,,,,,,,
+419,Social media submission,,,,,,,,,,,,,,04/16/2017 - 04/30/2017,7,7,,,,,,,,,,,,,,,,,,,,,,,,
+420,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,"Blue Grass, Partner Organizations Host International Ambassadors",4/10/17,News Article,,,,,,,,,,,,,0,0,0,0
+421,Social media submission,,,,,,,,,,,,,,4/10/17,1,2,,,,"Note: for Blue Grass, Partner Organizations Host International Ambassadors news article",,,,,,,,,,,,,,,,,,,,
+422,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,4/10/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+423,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,University of Kentucky class presentation,4/14/17,Education Outreach Event,,4,,,,,,,15,,,,,0,0,0
+424,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Junior Achievement of the Bluegrass recognition,4/12/17,Networking event,,1,20,,5,,,,20,,,,,0,0,0
+425,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Bluegrass Tomorrow Idea Festival,4/19/17,Information packet distribution,,2,,,,,,,86,,,,,0,0,0
+426,Individual contact,Team Member 1,4/19/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+427,Individual contact,Team Member 1,4/17/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Oversight/regulatory agency member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+428,Individual contact,Team Member 1,4/18/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Oversight/regulatory agency member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+429,Individual contact,Team Member 3,4/17/17,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Digital communication,Civic/church group member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+430,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,"Blue Grass, Partner Organizations Host International Ambassadors",4/19/17,News Article,,,,,,,,,,,,,0,0,0,0
+431,Social media submission,,,,,,,,,,,,,,4/19/17,1,2,0,0,0,"Note: for Blue Grass, Partner Organizations Host International Ambassadors news article",,,,,,,,,,,,,,,,,,,,
+432,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Presentation: Kentucky Chemical Stockpile Emergency Preparedness Program (CSEPP) Integrated Process Team (IPT) Meeting,4/19/17,Briefing/presentation,,,,,,,,10,,,,,,0,0,0
+433,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Distribution,4/17/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+434,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Distribution,4/10/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+435,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Richmond Main Street Clean Sweep,4/21/17,Networking event,,8,25,,3,,,,,,,,,0,0,0
+436,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Bluegrass Tomorrow Idea Fest,4/19/17,Networking event,,4,,,,,,,86,,,,,0,0,0
+437,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Dr. James McChesney Memorial Scholarship Golf event,4/28/17,Networking event,,6,,,,,,,10,,,,,0,0,0
+438,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Relay for Life meeting,4/24/17,Networking event,,1,5,,,,,,,,,5,,0,0,0
+439,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Blue Grass Bulletin newsletter,4/27/17,Digital communications distribution,,878,,,,,,,,,,,6,0,0,0
+440,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at BGCAPP дус April 2017,4/28/17,Digital communications distribution,,1209,28,30,489,,15,12,3,,26,291,,0,0,0
+441,Individual contact,Team Member 2,4/28/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+442,Individual contact,Team Member 2,4/27/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443,Individual contact,Team Member 1,4/25/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Oversight/regulatory agency member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444,Social media submission,,,,,,,,,,,,,,4/29/17,,,,1,,Note: for Organisation for the Prohibition of Chemical Weapons Visits Kentucky video short,,,,,,,,,,,,,,,,,,,,
+445,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,"Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) Weekly News Distribution",4/24/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+446,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,4/25/17,Digital communications distribution,,35,,30,,,6,6,,,10,,,0,0,0
+447,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,4/26/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+448,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,4/27/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+449,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,4/3/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+450,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,4/14/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+451,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,4/18/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+452,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,4/20/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+453,Social media submission,,,,,,,,,,,,,,05/01/2017 - 05/15/2017,13,13,,,,,,,,,,,,,,,,,,,,,,,,
+454,Social media submission,,,,,,,,,,,,,,5/1/17,26,,,,,Note: for Aberdeen Proving Ground Centennial Celebration digital communications campaign,,,,,,,,,,,,,,,,,,,,
+455,Social media submission,,,,,,,,,,,,,,04/18/2017 - 04/29/2017,11,4,,,,Note: OPCW campaign,,,,,,,,,,,,,,,,,,,,
+456,Social media submission,,,,,,,,,,,,,,04/01/2017 - 04/15/2017,19,8,,,,9 Instagram posts,,,,,,,,,,,,,,,,,,,,
+457,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Kentucky Department for Environmental Protection (KDEP) Managers,5/2/17,Tour,,4,,,,,,,,,5,,,0,0,0
+458,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Senate Armed Services Committee (SASC) Professional Staff Members,5/1/17,Tour,,4,,,,,,,,,2,,,0,0,0
+459,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Bluegrass Amateur Radio Society,5/1/17,Briefing/presentation,,,,,17,,,,,,,,,17,17,10
+460,Individual contact,Team Member 4,5/5/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+461,Individual contact,Team Member 2,5/2/17,"Name LastName, Title ",Outreach event,,Don't know,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+462,Individual contact,Team Member 4,5/2/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Oversight/regulatory agency member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+463,Individual contact,Team Member 4,5/1/17,"Name LastName, Title ",Friend/family/coworker/neighbor,,Yes,The stakeholder,Digital communication,Business,,N/A,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+464,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Distribution,5/1/17,Digital communications distribution,,302,,,,,,2,,,7,,,0,0,0
+465,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping I,5/1/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+466,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,News clipping II,5/1/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+467,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,News Clipping,5/2/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+468,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Madison County United Way Board,5/3/17,Networking event,,1,3,,2,,,,,,,,,0,0,0
+469,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Nicholasville Elementary School - I,5/12/17,Education Outreach Event,,,,,,,,,29,,,,,0,0,0
+470,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Nicholasville Elementary School - II,5/12/17,Education Outreach Event,,,,,,,,,28,,,,,0,0,0
+471,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Nicholasville Elementary School - III,5/12/17,Education Outreach Event,,,,,,,,,28,,,,,0,0,0
+472,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Nicholasville Elementary School - IV,5/12/17,Education Outreach Event,,,,,,,,,28,,,,,0,0,0
+473,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Laurel County Emergency Management Agency/Chemical Stockpile Emergency Preparedness Program,5/11/17,Tour,,2,,,,,,10,,,,,,0,10,10
+474,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,"National Academies of Sciences, Engineering and Medicine (NASEM) Standing Committee on Chemical Demilitarization",5/10/17,Briefing/presentation,,5,13,,,,,,,,,,,13,0,0
+475,Individual contact,Team Member 4,5/12/17,"Name LastName, Title ",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+476,Individual contact,Team Member 2,5/11/17,"Name LastName, Title ",Outreach event,,Don't know,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+477,Individual contact,Team Member 4,5/10/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+478,Individual contact,Team Member 2,5/9/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+479,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Team Begins Pilot-Test Plan,5/11/17,News Article,,,,,,,,,,,,,0,0,0,0
+480,Social media submission,,,,,,,,,,,,,,5/11/17,1,2,,,,Note: for Blue Grass Team Begins Pilot-Test Plan news article,,,,,,,,,,,,,,,,,,,,
+481,Social media submission,,,,,,,,,,,,,,05/16/2017 - 05/31/2017,9,8,,,,,,,,,,,,,,,,,,,,,,,,
+482,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,5/5/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+483,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA News,5/8/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+484,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Madison Southern High School senior recognition,5/12/17,Networking event,,1,10,,10,,,,300,,,,,0,0,0
+485,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Joint Chambers of Commerce State-of-the-County Address,5/19/17,CAC/CDCAB (or subcommittee)/advisory board meeting,,,170,2,,,5,,,,,,,0,0,0
+487,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB Meeting Advertisements - The Richmond Register,5/19/17,Advertisement,,,,,,,,,,1,,,,0,0,0
+488,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB Meeting Advertisements - The Berea Citizen,5/19/17,Advertisement,,,,,,,,,,1,,,,0,0,0
+489,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB Meeting Advertisements - local cable,5/19/17,Advertisement,,,,,,,,,,1,,,,0,0,0
+490,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB Meeting Advertisements - Estill County Tribune,5/19/17,Advertisement,,,,,,,,,,1,,,,0,0,0
+491,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB Meeting Advertisements - Public Service Announcement,5/19/17,Advertisement,,,,,,,,,,1,,,,0,0,0
+492,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB Meeting Advertisements - Community Calendar,5/19/17,Advertisement,,,,,,,,,,1,,,,0,0,0
+493,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Secondary Waste Working Group,5/18/17,CAC/CDCAB (or subcommittee)/advisory board meeting,,12,,3,,,,,,,,,,15,0,0
+494,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,BGCAPP Talking Points дус May 2017,5/18/17,Digital communications distribution,,,,,,,1,,,,,,,0,0,0
+495,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CAC/CDCAB Meeting Reminder,5/16/17,Digital communications distribution,,30,,30,,,10,6,,,12,,,0,0,0
+496,Individual contact,Team Member 1,5/16/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+497,Individual contact,Team Member 1,5/16/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+498,Individual contact,Team Member 3,5/17/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Oversight/regulatory agency member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+499,Individual contact,Team Member 1,5/17/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+500,Individual contact,Team Member 1,5/17/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+501,Individual contact,Team Member 1,5/16/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+502,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Distribution,5/15/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+503,Social media submission,,,,,,,,,,,,,,5/18/17,1,,,,,Note: for Bike-to-Work,,,,,,,,,,,,,,,,,,,,
+505,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,5/16/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+506,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Madison Central High School Sr Recognition,5/16/17,Networking event,,1,25,,10,,,,10,,,,,0,0,0
+507,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP Bulletin,5/25/17,Digital communications distribution,,906,,,,,,,,,,,6,0,0,0
+508,Individual contact,Team Member 3,5/26/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Oversight/regulatory agency member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+509,Individual contact,Team Member 1,5/25/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+510,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Portable Purifier Cleans Blue Grass Process Water and Blue Grass Conducts First Caustic Leak Drill,5/26/17,News Article,,,,,,,,,,,,,0,0,0,0
+511,Social media submission,,,,,,,,,,,,,,5/26/17,1,2,,,,Note:  Portable Purifier Cleans Blue Grass Process Water and Blue Grass Conducts First Caustic Leak Drill article,,,,,,,,,,,,,,,,,,,,
+512,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,"Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) Weekly News Distribution",5/22/17,Digital communications distribution,,312,,,,,,2,,,7,,,0,0,0
+513,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Portable Purifier Cleans Blue Grass Process Water article,5/26/17,News Article,,,,,,,,,,,,,0,0,0,0
+514,Social media submission,,,,,,,,,,,,,,5/26/17,1,2,,,,Note: Portable Purifier Cleans Blue Grass Process Water article,,,,,,,,,,,,,,,,,,,,
+515,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping I,5/25/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+516,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping II,5/25/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+517,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping I,5/24/17,Digital communications distribution,,30,,35,,,6,6,,,20,,,0,0,0
+518,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping II,5/24/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+519,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,news clipping,5/21/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+520,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Step Out Walk to Stop Diabetes,6/3/17,Information booth/exhibit,,8,,,,,,,,,,,51,0,0,0
+521,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at BGCAPP дус May 2017,5/31/17,Digital communications distribution,,1386,60,30,89,334,12,20,3,,25,168,,0,0,0
+522,Individual contact,Team Member 1,5/30/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+523,Individual contact,Team Member 4,6/2/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Oversight/regulatory agency member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+524,Individual contact,Team Member 1,6/2/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+525,Individual contact,Team Member 2,6/1/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Civic/church group member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+526,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Kentucky Special Olympics Summer Games,6/2/17,Networking event,,3,10,1,1,,1,,,,,,,0,0,0
+527,Individual contact,Team Member 4,5/31/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+528,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,"Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) Weekly News Distribution",5/30/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+529,Social media submission,,,,,,,,,,,,,,06/1/2017  - 06/15/2017,9,9,,,,,,,,,,,,,,,,,,,,,,,,
+530,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP workforce orientation,6/5/17,Workforce event,,2,,,,,,,,,,,,2,0,0
+531,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP workforce orientation,5/22/17,Workforce event,,3,,,,,,,,,,,,3,0,0
+532,Social media submission,,,,,,,,,,,,,,6/6/17,1,1,,1,,Note: EBH Drum Rotation,,,,,,,,,,,,,,,,,,,,
+533,Social media submission,,,,,,,,,,,,,,5/2/17,1,1,1,,,Note: Medical Facility Training Exercise,,,,,,,,,,,,,,,,,,,,
+534,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Blue Grass Chemical Agent-Destruction Pilot Plant (BGCAPP) Talking Points,6/7/17,Digital communications distribution,,,,,,,4,,,,,,,0,0,0
+535,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Reminder,6/7/17,Digital communications distribution,,15,,30,,,8,6,,,20,,,0,0,0
+536,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB News Release,6/7/17,News release,,10,,30,,,,,,44,,,,0,0,0
+537,Individual contact,Team Member 3,6/8/17,"Name LastName, Title ",Outreach event,,Don't know,The stakeholder,Telephone,Civic/church group member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+538,Individual contact,Team Member 1,6/8/17,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+539,Individual contact,Team Member 1,6/8/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,In-person,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+540,Individual contact,Team Member 4,6/6/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+541,Individual contact,Team Member 2,6/2/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+542,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Scientists Visit Blue Grass Plant,6/8/17,News Article,,,,,,,,,,,,,0,0,0,0
+543,Social media submission,,,,,,,,,,,,,,6/8/17,1,2,,,,Note: Scientists Visit Blue Grass Plant news article,,,,,,,,,,,,,,,,,,,,
+544,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Plant Agent Collection System Turned Over to Operations,6/8/17,News Article,,,,,,,,,,,,,0,0,0,0
+545,Social media submission,,,,,,,,,,,,,,6/8/17,1,2,,,,Note: Blue Grass Plant Agent Collection System Turned Over to Operations news article,,,,,,,,,,,,,,,,,,,,
+546,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,"Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) Weekly News Distribution",6/5/17,Digital communications distribution,,312,,,,,,2,,,7,,,0,0,0
+547,Social media submission,,,,,,,,,,,,,,6/5/17,1,2,1,,,Note: Medical Facility Training Exercise video,,,,,,,,,,,,,,,,,,,,
+548,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Red Cross Community Open House,6/8/17,Networking event,,4,4,,10,,3,2,,,,,,0,0,0
+549,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Information Distribution: Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Rebroadcast,6/15/17,Digital communications distribution,,25,,30,,,6,6,,,6,,,0,0,0
+550,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Bluegrass Tomorrow,6/15/17,Tour,,,,,11,,,,,,,,,0,0,0
+551,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,CAC/CDCAB,6/14/17,CAC/CDCAB (or subcommittee)/advisory board meeting,,30,,15,,5,3,2,,2,8,,,65,0,0
+552,Social media submission,,,,,,,,,,,,,,6/14/17,,,,,1,Note: CAC/CDCAB,,,,,,,,,,,,,,,,,,,,
+553,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB Media Advisory,6/14/17,News release,,,,,,,,,,48,,,,0,0,0
+554,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Knights of Pythagoras Dr. Scott T. Ferguson's Summer Enrichment Camp,6/13/17,Education Outreach Event,,,,,,,,,24,,,,,0,0,0
+555,Individual contact,Team Member 4,6/16/17,"Name LastName, Title ",Friend/family/coworker/neighbor,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+556,Individual contact,Team Member 4,6/15/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+557,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Plant Holds First Public Equipment Auction,6/12/17,News Article,,,,,,,,,,,,,0,0,0,0
+558,Social media submission,,,,,,,,,,,,,,6/12/17,1,2,,,,Note: Blue Grass Plant Holds First Public Equipment Auction news article,,,,,,,,,,,,,,,,,,,,
+559,Social media submission,,,,,,,,,,,,,,06/16/2017 - 06/30/2017,8,8,,,,,,,,,,,,,,,,,,,,,,,,
+560,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping _ I,6/14/17,Digital communications distribution,,35,,30,,,6,6,,,15,,,0,0,0
+561,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Blue Grass Chemical Activity (BGCA) Site Assistance Visit,6/22/17,Tour,,3,,,,,,,,,3,,,0,3,3
+562,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Bluegrass Regional Homeland Security Council,6/21/17,Briefing/presentation,,2,,,10,,,,,,,,,10,10,10
+563,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,GB Sampling Environmental Permitting Public Notifications,6/20/17,Digital communications distribution,,65,,30,3,,12,10,,,18,,,0,0,0
+564,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,"Children""s Charity of the Bluegrass",6/19/17,Networking event,,3,10,,20,,,,,2,,,,0,0,0
+565,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,New Program Executive Officer Announcement,6/19/17,Digital communications distribution,,65,,30,,,12,10,,,21,,,0,0,0
+566,Individual contact,Team Member 4,6/22/17,"Name LastName, Title ",Friend/family/coworker/neighbor,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+567,Individual contact,Team Member 3,6/21/17,"Name LastName, Title ",Outreach event,,Don't know,The stakeholder,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+568,Individual contact,Team Member 4,6/21/17,"Name LastName, Title ",Friend/family/coworker/neighbor,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+569,Individual contact,Team Member 4,6/20/17,"Name LastName, Title ",Outreach event,,No,The outreach team,In-person,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+570,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Laboratory Performs Chemical Interferent Testing,6/19/17,News Article,,,,,,,,,,,,,0,0,0,0
+571,Social media submission,,,,,,,,,,,,,,6/19/17,1,2,,,,Note: for Blue Grass Laboratory Performs Chemical Interferent Testing news article,,,,,,,,,,,,,,,,,,,,
+572,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Plant Leader Outlines Systemization Focus,6/22/17,News Article,,,,,,,,,,,,,0,0,0,0
+573,Social media submission,,,,,,,,,,,,,,6/22/17,1,2,,,,Note: for Blue Grass Plant Leader Outlines Systemization Focus news article,,,,,,,,,,,,,,,,,,,,
+574,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Kentucky CSEPP Integrated Process Team,6/20/17,Briefing/presentation,,,,,,,,12,,,,,,0,0,0
+575,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,"Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) Weekly News Distribution",6/19/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+576,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,GB Sampling Permit Modification Request Submittal - Lexington Herald-Leader,6/20/17,Advertisement,,,,,,,,,,0,,,,0,0,0
+577,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,GB Sampling Permit Modification Request Submittal - Berea Citizen,6/20/17,Advertisement,,,,,,,,,,0,,,,0,0,0
+578,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,GB Sampling Permit Modification Request Submittal - The Richmond Register,6/20/17,Advertisement,,,,,,,,,,0,,,,0,0,0
+579,Social media submission,,,,,,,,,,,,,,6/22/17,1,1,,1,,Note: for Workers Perform Caustic Leak Drill at Kentucky Plant video,,,,,,,,,,,,,,,,,,,,
+580,Social media submission,,,,,,,,,,,,,,6/22/17,1,1,,1,,Note: for Kentucky Team Tests Rocket Shear Machine video,,,,,,,,,,,,,,,,,,,,
+581,Social media submission,,,,,,,,,,,,,,6/20/17,2,2,,,,Note: for  GB Sampling permit modification request,,,,,,,,,,,,,,,,,,,,
+582,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,6/22/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+583,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,6/19/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+584,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,6/16/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+585,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,TSCA Permit notification,6/28/17,Advertisement,,,,,,,,,,5,,,,0,0,0
+586,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Blue Grass Bulletin newsletter,6/28/17,Digital communications distribution,,910,,,,,,,,,,,6,0,0,0
+587,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP new employee orientation,6/26/17,Workforce event,,4,,,,,,,,,,,,4,0,0
+588,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at BGCAPP дус June 2017,6/30/17,Digital communications distribution,,1394,59,30,268,341,8,15,3,,25,117,,0,0,0
+589,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Secondary Waste Working Group Memorandum for Record,6/26/17,Digital communications distribution,,16,,,,,,,,,,,,0,0,0
+590,Individual contact,Team Member 4,6/30/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+591,Individual contact,Team Member 4,6/27/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Oversight/regulatory agency member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+592,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Personnel Prepare for Blue Grass Filter-Bank Detector Test,6/28/17,News Article,,,,,,,,,,,,,0,0,0,0
+593,Social media submission,,,,,,,,,,,,,,6/27/17,1,2,,,,Note: for Personnel Prepare for Blue Grass Filter-Bank Detector Test  news article,,,,,,,,,,,,,,,,,,,,
+594,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Plant Submits Request to Sample Munitions,6/27/17,News Article,,,,,,,,,,,,,0,0,0,0
+595,Social media submission,,,,,,,,,,,,,,6/27/17,1,2,,,,Note: Blue Grass Plant Submits Request to Sample Munitions news article,,,,,,,,,,,,,,,,,,,,
+596,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Distribution,6/26/17,Digital communications distribution,,312,,,,,,3,,,8,,,0,0,0
+597,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Distribution,6/12/17,Digital communications distribution,,312,,,,,,3,,,8,,,0,0,0
+598,Social media submission,,,,,,,,,,,,,,07/01/2017 - 07/15/2017,7,6,,,,,,,,,,,,,,,,,,,,,,,,
+599,Social media submission,,,,,,,,,,,,,,6/30/17,2,2,,,,Note: TSCA permit actions,,,,,,,,,,,,,,,,,,,,
+600,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Glenn Marshall STEM Day,5/19/17,Education Outreach Event,,6,,,,,,,100,,,,,0,0,0
+601,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Summary,7/5/17,Digital communications distribution,,35,,30,,,5,6,,,6,,,0,0,0
+602,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Toxic Substances Control Act (TSCA) Public Notifications,7/3/17,Digital communications distribution,,45,,30,,,10,10,,,25,,,0,0,0
+603,Individual contact,Team Member 4,7/3/17,"Name LastName, Title ",Outreach event,,Don't know,The outreach team,Digital communication,Oversight/regulatory agency member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+604,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,"Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) Weekly News Distribution",7/3/17,Digital communications distribution,,312,,,,,,6,,,3,,,0,0,0
+605,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,7/3/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+606,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Toxic Substances Control Act EPA Approval notification,7/5/17,Digital communications distribution,,,,,,242,,,,,,,,0,0,0
+607,Individual contact,Team Member 4,7/12/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+608,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Plant to Hold Environmental Permitting Meeting July 20,7/13/17,News Article,,,,,,,,,,,,,0,0,0,0
+609,Social media submission,,,,,,,,,,,,,,7/13/17,1,2,,,,Note: for Blue Grass Plant to Hold Environmental Permitting Meeting July 20 news article,,,,,,,,,,,,,,,,,,,,
+610,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,"Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) Weekly News Distribution",7/10/17,Digital communications distribution,,312,,,,,,2,,,3,,,0,0,0
+611,Social media submission,,,,,,,,,,,,,,07/16/2017 - 07/31/2017,5,5,,,,,,,,,,,,,,,,,,,,,,,,
+612,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,7/12/17,Digital communications distribution,,35,,30,,,6,6,,,10,,,0,0,0
+613,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP new employee orientation,7/10/17,Workforce event,,2,,,,,,,,,,,,0,0,0
+614,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,U.S. Environmental Protection Agency (EPA) Toxic Substances Control Act (TSCA) Approval,7/20/17,Briefing/presentation,,13,,,,,,,,1,6,,,0,0,0
+615,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Centers for Disease Control and Prevention,7/20/17,Tour,,4,,,,,,,,,2,,,0,0,0
+616,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,GB Sampling Class 2 Permit Modification Request,7/19/17,Briefing/presentation,,15,,,,,,,,,9,,,0,0,0
+617,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,GB Sampling Class 2 Permit Modification Request Media Advisory,7/18/17,News release,,,,,,,,,,52,,,,0,0,0
+618,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Emergency Response Teams Train for High-Angle Rescues,7/18/17,News Article,,,,,,,,,,,,,0,0,0,0
+619,Social media submission,,,,,,,,,,,,,,7/18/17,1,2,,,,Note: Blue Grass Emergency Response Teams Train for High-Angle Rescues article,,,,,,,,,,,,,,,,,,,,
+620,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Distribution,7/17/17,Digital communications distribution,,321,,,,,,8,,,3,,,0,0,0
+621,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,7/21/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+622,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,TSCA Approval Public Meeting,7/20/17,Other (please specify),Public availability meeting for EPA approval decision,4,,,,,,,,1,19,,,0,0,0
+623,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Media Advisory TSCA public availability,7/19/17,News release,,,,,,,,,,52,,,,0,0,0
+624,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Blue Grass Bulletin newsletter,7/27/17,Digital communications distribution,,884,,,,,,,,,,,6,0,0,0
+625,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Invitation to New Program Executive Officer Meet and Greet,7/28/17,Digital communications distribution,,20,,30,,,6,6,,,10,,,0,0,0
+626,Individual contact,Team Member 4,7/24/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+627,Individual contact,Team Member 4,7/26/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+628,Individual contact,Team Member 2,7/24/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+629,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Engineers Design Munitions-Monitoring Equipment,7/25/17,News Article,,,,,,,,,,,,,0,0,0,0
+630,Social media submission,,,,,,,,,,,,,,7/27/17,1,2,,,,Note: Engineers Design Munitions-Monitoring Equipment news article,,,,,,,,,,,,,,,,,,,,
+631,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Distribution,7/24/17,Digital communications distribution,,321,,,,,,3,,,5,,,0,0,0
+632,Social media submission,,,,,,,,,,,,,,7/28/17,1,1,,1,,Note: Kentucky Singing Bridge video short,,,,,,,,,,,,,,,,,,,,
+633,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clipping,7/21/17,Digital communications distribution,,35,,30,,,6,6,,,10,,,0,0,0
+636,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,New Program Executive Officer Meet-and-Greet,8/3/17,CAC/CDCAB (or subcommittee)/advisory board meeting,,3,,3,,,1,,,,,,,0,0,0
+637,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,New Program Executive Officer Meet-and-Greet Reminder,8/3/17,Digital communications distribution,,12,,30,,,8,8,,,12,,,0,0,0
+638,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,New Program Executive Officer,8/2/17,Tour,,6,,,,,,,,,,,,0,0,0
+639,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at BGCAPP дус July 2017,7/31/17,Digital communications distribution,,1323,84,30,228,235,15,8,3,,20,101,,0,0,0
+640,Individual contact,Team Member 4,8/3/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641,Individual contact,Team Member 4,8/3/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+642,Individual contact,Team Member 1,7/31/17,"Name LastName, Title ",Friend/family/coworker/neighbor,,Yes,The stakeholder,Telephone,CSEPP Protective Action Zone/Immediate Reaction Zone resident,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+643,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA News-Clipping Distribution,7/31/17,Digital communications distribution,,301,,,,,,2,,,7,,,0,0,0
+644,Social media submission,,,,,,,,,,,,,,08/01/2017 - 08/15/2017,8,7,,,,,,,,,,,,,,,,,,,,,,,,
+645,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP tour for EPA/KDEP,7/20/17,Tour,,4,,,,,,,,,5,,,0,0,0
+646,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP new employee orientation,8/7/17,Workforce event,,3,,,,,,,,,,,,3,,
+647,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Richmond Chamber of Commerce Congressional Update,8/10/17,Networking event,,4,60,,,,4,,,,,,,0,0,0
+648,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,U.S. Army Joint Munitions Command (JMC) Commander,8/9/17,Briefing/presentation,,2,,,,,,,,,1,,,0,0,0
+649,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Advertisements - Richmond Register,8/9/17,Advertisement,,,,,,,,,,1,,,,0,0,0
+650,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Advertisements - Berea Citizen,8/9/17,Advertisement,,,,,,,,,,1,,,,0,0,0
+651,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Advertisements - Local Cable,8/9/17,Advertisement,,,,,,,,,,1,,,,0,0,0
+652,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Advertisements - Community Calendar,8/9/17,Advertisement,,,,,,,,,,1,,,,0,0,0
+653,Individual contact,Team Member 4,8/10/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+654,Individual contact,Team Member 4,8/10/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+655,Individual contact,Team Member 2,8/10/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+656,Individual contact,Team Member 1,8/9/17,"Name LastName, Title ",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,CSEPP Protective Action Zone/Immediate Reaction Zone resident,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+657,Individual contact,Team Member 1,8/9/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+658,Individual contact,Team Member 4,8/9/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+659,Individual contact,Team Member 2,8/8/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Telephone,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+660,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Distribution,8/7/17,Digital communications distribution,,312,,,,,,2,,,8,,,0,0,0
+661,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Blue Grass News Clip,8/8/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+662,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Blue Grass News Clip,8/9/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+663,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blur Grass News Clip,8/9/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+664,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass News Clip,8/10/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+665,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Kentucky CSEPP IPT,8/9/17,Briefing/presentation,,,,,,,,25,,,,,,0,0,0
+666,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,U.S. Sen. Mitch McConnell Staff Members,8/18/17,Tour,,4,,,,,4,,,,,,,0,0,0
+667,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,U.S. Army Chemical Materials Activity Director,8/16/17,Tour,,4,,,,,,,,,2,,,0,0,0
+668,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Notification,8/14/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+669,Individual contact,Team Member 4,8/18/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+670,Individual contact,Team Member 2,8/16/17,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+671,Individual contact,Team Member 2,8/16/17,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+672,Individual contact,Team Member 2,8/14/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+673,Individual contact,Team Member 2,8/14/17,"Name LastName, Title ",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,CSEPP Protective Action Zone/Immediate Reaction Zone resident,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+674,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,New Program Leader Visits Blue Grass Plant,8/16/17,News Article,,,,,,,,,,,,,0,0,0,0
+675,Social media submission,,,,,,,,,,,,,,8/16/17,1,2,,,,Note: New Program Leader Visits Blue Grass Plant news article,,,,,,,,,,,,,,,,,,,,
+676,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass Holds GB Sampling Public Meeting,8/16/17,News Article,,,,,,,,,,,,,0,0,0,0
+677,Social media submission,,,,,,,,,,,,,,8/16/17,1,2,,,,Note: Blue Grass Holds GB Sampling Public Meeting  news article,,,,,,,,,,,,,,,,,,,,
+678,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Blue Grass to Use Custom Device for Agent Sampling,8/16/17,News Article,,,,,,,,,,,,,0,0,0,0
+679,Social media submission,,,,,,,,,,,,,,8/16/17,1,2,,,,Note: Blue Grass to Use Custom Device for Agent Sampling news article,,,,,,,,,,,,,,,,,,,,
+680,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,"Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) Weekly News Distribution",8/14/17,Digital communications distribution,,312,,,,,,2,,,6,,,0,0,0
+681,Social media submission,,,,,,,,,,,,,,08/16/201 - 08/31/2017,9,7,,,,,,,,,,,,,,,,,,,,,,,,
+682,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at BGCAPP дус August 2017,8/25/17,Digital communications distribution,,1127,61,,298,474,15,15,3,,30,153,,0,0,0
+683,Individual contact,Team Member 2,8/25/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+684,Individual contact,Team Member 2,8/25/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+685,Individual contact,Team Member 2,8/25/17,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+686,Individual contact,Team Member 2,8/25/17,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Digital communication,Media,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+687,Individual contact,Team Member 2,8/24/17,"Name LastName, Title ",Outreach event,,Don't know,The stakeholder,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+688,Individual contact,Team Member 4,8/23/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Oversight/regulatory agency member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+689,Individual contact,Team Member 4,8/23/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+690,Individual contact,Team Member 2,8/23/17,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+691,Individual contact,Team Member 2,8/23/17,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+692,Individual contact,Team Member 2,8/22/17,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+693,Individual contact,Team Member 1,8/21/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+694,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Conveyor System Turned Over to Operations,8/24/17,News Article,,,,,,,,,,,,,0,0,0,0
+695,Social media submission,,,,,,,,,,,,,,8/24/17,1,2,,,,Note: Conveyor System Turned Over to Operations news article,,,,,,,,,,,,,,,,,,,,
+696,Social media submission,,,,,,,,,,,,,,8/24/17,,,,1,,Note: Solar Eclipse Time Lapse video:,,,,,,,,,,,,,,,,,,,,
+697,Social media submission,,,,,,,,,,,,,,09/01/2017 - 09/15/2017,8,8,,,,,,,,,,,,,,,,,,,,,,,,
+698,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clip,8/17/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+699,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clip,8/22/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+700,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clip,8/23/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+701,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,"Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) Weekly News Distribution",8/21/17,Digital communications distribution,,321,,,,,3,2,,,6,,,0,0,0
+702,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP new employee orientation,8/28/17,Workforce event,,1,,,,,,,,,,,,1,0,0
+703,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,CSEPP Exercise,8/30/17,CSEPP exercise,,1,,,,,,,,,,,,0,0,0
+704,Individual contact,Team Member 2,9/1/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+705,Individual contact,Team Member 4,9/1/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+706,Individual contact,Team Member 4,9/1/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+707,Individual contact,Team Member 2,8/31/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+708,Individual contact,Team Member 2,8/30/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+709,Individual contact,Team Member 4,8/30/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+710,Individual contact,Team Member 2,8/30/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+711,Individual contact,Team Member 2,8/28/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+712,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clip,8/31/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+713,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Distribution,8/28/17,Digital communications distribution,,301,,,,,,6,,,8,,,0,0,0
+714,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP Bulletin,8/30/17,Digital communications distribution,,913,,,,,,,,,,,6,0,0,0
+715,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Richmond Chamber Pops at the Parks,8/26/17,Networking event,,20,100,3,,,2,,,,,,100,0,0,0
+716,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP new employee orientation,8/21/17,Workforce event,,1,,,,,,,,,,,,1,0,0
+717,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Reminder,9/6/17,Digital communications distribution,,35,,30,,,8,8,,,15,,,0,0,0
+718,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,BGCAPP Talking Points,9/6/17,Digital communications distribution,,,,,,,3,,,,,,,0,0,0
+719,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB News Release,9/6/17,News release,,14,,30,,,6,6,,44,8,,,0,0,0
+720,Individual contact,Team Member 4,9/5/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+721,Individual contact,Team Member 2,9/7/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+722,Individual contact,Team Member 4,9/7/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+723,Individual contact,Team Member 4,9/7/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Oversight/regulatory agency member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+724,Individual contact,Team Member 1,9/6/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+725,Individual contact,Team Member 1,9/6/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+726,Individual contact,Team Member 2,9/6/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+727,Individual contact,Team Member 2,9/6/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+728,Individual contact,Team Member 2,9/5/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+729,Individual contact,Team Member 2,9/5/17,"Name LastName, Title ",Outreach event,,Don't know,The stakeholder,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+730,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,AirHandling System Passes Test,9/6/17,News Article,,,,,,,,,,,,,0,0,0,0
+731,Social media submission,,,,,,,,,,,,,,9/6/17,2,2,,,,Note: AirHandling System Passes Test news article,,,,,,,,,,,,,,,,,,,,
+732,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,"Program Executive Office, Assembled Chemical Weapons Alternatives (PEO ACWA) Weekly News Distribution",9/5/17,Digital communications distribution,,301,,,,,3,3,,,8,,,0,0,0
+733,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clip,9/5/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+734,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Tracks for Packs 5K,9/9/17,Networking event,,15,15,,20,,,,30,,,,75,0,0,0
+737,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Flickr August Update _12Photos,8/24/17,Digital communications distribution,,,,,,,,,,,,,0,0,0,0
+738,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Flickr Update - July - 18 Photos,7/28/17,Digital communications distribution,,,,,,,,,,,,,0,0,0,0
+739,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Flickr Monthly Update - June_ 20 Photos,6/30/17,Digital communications distribution,,,,,,,,,,,,,0,0,0,0
+740,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Spoonbread Festival,9/15/17,Information booth/exhibit,,,,,,175,,,,,,,,0,0,0
+741,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,"Science, Technology, Engineering and Mathematics (STEM) Saturdays at The Family Center",9/16/17,Education Outreach Event,,,,,,,,,7,,,,,0,0,0
+742,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Kentucky Chemical Demilitarization Citizens' Advisory Commission (CAC) and Chemical Destruction Community Advisory Board (CDCAB) Meeting Rebroadcast.,9/14/17,Digital communications distribution,,35,,30,,,6,6,,,10,,,0,0,0
+743,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,CAC/CDCAB Meeting,9/13/17,CAC/CDCAB (or subcommittee)/advisory board meeting,,25,,22,,,2,2,,2,10,,,55,55,3
+744,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC/CDCAB Media Advisory,9/12/17,News release,,20,,,,,,,,72,,,,0,0,0
+745,Individual contact,Team Member 1,9/12/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Elected official,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+746,Individual contact,Team Member 4,9/15/17,"Name LastName, Title ",Outreach event,,Yes,The stakeholder,In-person,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+747,Individual contact,Team Member 2,9/15/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+748,Individual contact,Team Member 2,9/14/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+749,Individual contact,Team Member 2,9/14/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+750,Individual contact,Team Member 1,9/12/17,"Name LastName, Title ",Friend/family/coworker/neighbor,,Yes,The stakeholder,Telephone,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+751,Individual contact,Team Member 2,9/11/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+752,Social media submission,,,,,,,,,,,,,,09/16/2017 - 09/30/2017,9,9,,,,,,,,,,,,,,,,,,,,,,,,
+753,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clip,9/13/17,Digital communications distribution,,35,,30,,,6,6,,,20,,,0,0,0
+754,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,BGCAPP new employee orientation,9/11/17,Workforce event,,4,,,,,,,,,,,,4,0,0
+755,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Madison County Relay for Life,9/14/17,Networking event,,3,3,,,,,,,,,,,0,0,0
+758,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,CSEPP Exercise,9/20/17,Media event,,1,,,,,,,,1,,,,0,0,0
+759,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,CityFest,9/21/17,Information booth/exhibit,,,,,,,,,100,,,,,50,0,0
+760,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,CSEPP Annual Exercise,9/20/17,CSEPP exercise,,6,,,,,3,20,,,,,,0,0,0
+761,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,BGCAPP Career Opportunities Symposium,9/19/17,Information booth/exhibit,,12,,,,33,,,,,,,,10,0,0
+762,Individual contact,Team Member 2,9/22/17,"Name LastName, Title ",Outreach event,,Yes,The outreach team,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+763,Individual contact,Team Member 3,9/21/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+764,Individual contact,Team Member 2,9/20/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+765,Individual contact,Team Member 1,9/19/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Business,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+766,Individual contact,Team Member 2,9/18/17,"Name LastName, Title ",Outreach event,,No,The outreach team,In-person,Emergency management,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+767,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,New Program Leader Meets Kentucky Community Members,9/20/17,News Article,,,,,,,,,,,,,0,0,0,0
+768,Social media submission,,,,,,,,,,,,,,9/20/17,2,2,,,,Note: New Program Leader Meets Kentucky Community Members news article,,,,,,,,,,,,,,,,,,,,
+769,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Team Demonstrates Agent Neutralization System,9/20/17,News Article,,,,,,,,,,,,,0,0,0,0
+770,Social media submission,,,,,,,,,,,,,,9/20/17,2,2,,,,Note: Team Demonstrates Agent Neutralization System news article,,,,,,,,,,,,,,,,,,,,
+772,Social media submission,,,,,,,,,,,,,,9/22/17,1,2,1,,,Note: Lab Prepares for Air Monitoring During Blue Grass Plant Operations video,,,,,,,,,,,,,,,,,,,,
+773,Social media submission,,,,,,,,,,,,,,9/21/17,1,2,,1,,Note:  ACWA Partners: Centers for Disease Control video,,,,,,,,,,,,,,,,,,,,
+774,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News Distribution,9/18/17,Digital communications distribution,,313,,,,,,3,,,8,,,0,0,0
+775,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,News clip - 1,9/20/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+776,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,News clip - 2,9/20/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+777,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,News clip - 3,9/20/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+778,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,News clip,9/21/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+779,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at BGCAPP дус September 2017,9/28/17,Digital communications distribution,,958,25,30,327,597,6,12,3,,12,,,0,0,0
+781,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Homeland Security and Assets Protection Leaders of Tomorrow,9/28/17,Tour,,5,,,,,,,6,,,,,0,0,0
+782,Individual contact,Team Member 1,9/28/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Direct mail,CAC/CDCAB member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+783,Individual contact,Team Member 1,9/29/17,"Name LastName, Title ",Outreach event,,No,The outreach team,Direct mail,CAC/CDCAB member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+784,Individual contact,Team Member 1,9/28/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,CAC/CDCAB member,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+785,Individual contact,Team Member 2,9/25/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+786,Individual contact,Team Member 4,9/25/17,"Name LastName, Title ",Outreach event,,No,The stakeholder,Digital communication,Local school,,N/A,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+787,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Environmental Department Provides Permitting Updates,9/26/17,News Article,,,,,,,,,,,,,0,0,0,0
+788,Social media submission,,,,,,,,,,,,,,9/26/17,2,2,,,,Note: Environmental Department Provides Permitting Updates news article,,,,,,,,,,,,,,,,,,,,
+789,Social media submission,,,,,,,,,,,,,,9/26/17,2,2,,,,Note: Partners Participate in Emergency Preparedness Exercise news article,,,,,,,,,,,,,,,,,,,,
+790,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA News-Clipping Distribution,9/25/17,Digital communications distribution,,311,,,,,2,7,,,3,,,0,0,0
+791,Social media submission,,,,,,,,,,,,,,10/01/2017 - 10/15/2017,7,6,,,,,,,,,,,,,,,,,,,,,,,,
+792,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clip,9/25/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+793,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,News clip,9/27/17,Digital communications distribution,,35,,30,,,6,6,,,12,,,0,0,0
+794,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PEO ACWA Weekly News,9/11/17,Digital communications distribution,,312,,,,,,3,,,7,,,0,0,0
+795,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Partners Participate in Emergency Preparedness Exercise,9/20/17,News Article,,,,,,,,,,,,,0,0,0,0
+796,Social media submission,,,,,,,,,,,,,,9/20/17,2,2,,,,Note: Partners Participate in Emergency Preparedness Exercise news article,,,,,,,,,,,,,,,,,,,,
+797,Social media submission,,,,,,,,,,,,,,9/13/17,,,,,1,Note: CAC/CDCAB Meeting,,,,,,,,,,,,,,,,,,,,
+798,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Flickr Update - September - 13,9/28/17,Digital communications distribution,,,,,,,,,,,,,0,0,0,0
+800,Social media submission,,,,,,,,,,,,,,9/19/17,1,,,,,Note: post question response for the Career Opportunities Symposium,,,,,,,,,,,,,,,,,,,,
+802,Social media submission,,,,,,,,,,,,,,9/14/17,,,,,1,CAC/CDCAB Sept. 2017 Rebroadcast,,,,,,,,,,,,,,,,,,,,
+803,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Berea Citizen media roadshow,9/25/17,Media event,,1,,,,,,,,1,,,,1,0,0
+804,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Blue Grass Bulletin e-newsletter,10/28/17,Digital communications distribution,,964,,,,,,,,,,,,0,0,0
+805,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,New-hire orientation,9/25/17,Workforce event,,2,,,,,,,,,,,,2,0,0
+806,Event or information distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Blue Grass Bulletin newsletter,9/28/17,Digital communications distribution,,906,,,,,,,,,,,6,0,0,0
