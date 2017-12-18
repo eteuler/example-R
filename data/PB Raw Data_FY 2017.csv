@@ -1,0 +1,813 @@
+Response ID,Select which type of data to enter:,Outreach team member:,Date of contact:,Stakeholder's name and title:,How did they hear about the program?,Other (please specify):How did they hear about the program?,Is this stakeholder a new contact?,Who initiated the contact?,Method of interaction:,Stakeholder type:,Other (please specify)::Stakeholder type:,Was a feedback form distributed?:Complete the following:,Did the stakeholder request information?:Complete the following:,Was the stakeholder given program materials during the interaction?:Complete the following:,Date range of submission(s):,Facebook posts:Number of social media postings submitted:,Tweets:Number of social media postings submitted:,Full-length videos:Number of social media postings submitted:,Digital shorts:Number of social media postings submitted:,Livestreaming:Number of social media postings submitted:,Name of video (if applicable):,Outreach team member:,Name of event or distribution:,Date of event or distribution:,Event or distribution type:,Other (please specify):Event or distribution type:,Business & economic development group members:Number of participants:,CAC/Working Group members:Number of participants:,Citizen board/commission members:Number of participants:,Community advocacy/Non-profit:Number of participants:,Elected and Government-appointed officials:Number of participants:,Emergency management:Number of participants:,Community members:Number of participants:,Education community:Number of participants:,Media:Number of participants:,Oversight/regulatory agency members:Number of participants:,Workforce:Number of participants:,Other:Number of participants:,Number:Information packets distributed:Complete the following:,Number:Feedback forms distributed:Complete the following:,Number:Feedback forms collected:Complete the following:
+1,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Colorado Bi-Monthly CSEPP IPT,10/12/16,Briefing/update,,,,,,,29,,,,,,,0,0,0
+2,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Education Outreach: Pueblo Community College,10/20/16,Education outreach event,,,,,,,,,30,,,,,,1,1
+3,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,10/3/16,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+4,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,10/10/16,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+5,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,10/17/16,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,
+6,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/3/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+7,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/4/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+8,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/5/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+9,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/6/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+10,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/10/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+11,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/11/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+12,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/12/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+13,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/13/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+14,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/17/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+15,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/18/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+16,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/18/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+17,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/19/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+18,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/20/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+19,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,10/24/16,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+20,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,PCC Scholarship Luncheon,10/4/16,Networking event,,99,,,,,,,50,,,1,,0,0,0
+21,Individual contact,Team Member 1,10/4/16,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,CAC member,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome Message Distribution,10/13/16,Workforce event,,,,,,,,,,,,4,,4,0,0
+23,Individual contact,Team Member 1,10/12/16,"name lastname, titles",Don't know - did not ask,,No,The outreach team,In-person,Elected official,,No,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Media Tour,10/13/16,Media event,,,,,,,,,,1,,,,1,0,0
+25,Individual contact,Team Member 1,10/11/16,"name lastname, titles",Don't know - did not ask,,No,Don't know,In-person,CAC member,,No,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Individual contact,Team Member 1,10/11/16,"name lastname, titles",Don't know - did not ask,,No,Don't know,In-person,CAC member,,No,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Individual contact,Team Member 1,10/12/16,"name lastname, titles",Don't know - did not ask,,No,Don't know,In-person,CAC member,,No,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,Individual contact,Team Member 1,10/12/16,"name lastname, titles",Don't know - did not ask,,No,Don't know,In-person,CAC member,,No,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,Individual contact,Team Member 1,10/11/16,"name lastname, titles",Don't know - did not ask,,No,Don't know,In-person,Oversight/regulatory agency member,,No,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,Individual contact,Team Member 1,10/12/16,"name lastname, titles",Don't know - did not ask,,No,Don't know,In-person,Oversight/regulatory agency member,,No,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Part B Pre Application Public Meeting,10/11/16,Public meeting,,,2,,,,,,,,1,4,,3,0,0
+32,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Part B Pre-Application Public Meeting,10/12/16,Public meeting,,,2,,,1,,5,,,2,4,,10,0,0
+33,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Southern Colorado Press Club Monthly Membership Meeting,10/11/16,Networking event,,14,,,,,,,29,5,,2,,0,0,0
+34,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Pueblo Cooperative Care Center Board of Directors Meeting,10/20/16,Networking event,,,,,9,,,,,,,1,,0,0,0
+35,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,10/11/16,Digital communications distribution,,,1,,,1,4,,,,15,45,,0,0,0
+36,Individual contact,Team Member 2,10/14/16,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Digital communication,CAC member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,Individual contact,Team Member 2,10/10/16,"name lastname, titles",Don't know - did not ask,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,Individual contact,Team Member 2,10/12/16,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,Individual contact,Team Member 2,10/18/16,"name lastname, titles",Friend/family/coworker/neighbor,,No,The stakeholder,Outreach office visitor/walk-in,Local community member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,Individual contact,Team Member 2,10/24/16,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Transportation Technology Center Inc,10/27/16,Briefing/update,,,,,,,,33,,,,,,33,33,23
+42,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,10/31/16,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+43,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/24/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+44,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/25/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+45,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/26/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+46,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/27/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+47,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Southern Colorado Press Club Monthly Board Meeting,10/28/16,Networking event,,4,,,,,,2,,1,,1,,0,0,0
+48,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome message to PCAPP employees,10/27/16,Information packet distribution,,,,,,,,,,,,7,,7,0,0
+49,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Class 2 Permit Modification Public Meeting,10/26/16,Public meeting,,,3,,,,,4,,,,14,,14,0,0
+50,Individual contact,Team Member 1,10/25/16,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,Oversight/regulatory agency member,,No,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Education Outreach: Prairie Winds Elementary (1),10/31/16,Education outreach event,,,,,,,,,22,,,,,o,1,1
+52,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Education Outreach: Prairie Winds Elementary (2),10/31/16,Education outreach event,,,,,,,,,21,,,,,0,0,0
+53,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Education Outreach: Prairie Winds Elementary (3),10/31/16,Education outreach event,,,,,,,,22,,,,,,0,1,1
+54,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Education Outreach: Prairie Winds Elementary (4),10/31/16,Education outreach event,,,,,,,,,21,,,,,0,1,1
+55,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Education Outreach: Prairie Winds Elementary (5),10/31/16,Education outreach event,,,,,,,,,22,,,,,0,1,1
+56,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Education Outreach: Prairie Winds Elementary (6),10/31/16,Education outreach event,,,,,,,,21,,,,,,0,0,0
+57,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Education Outreach: Prairie Winds Elementary (7),10/31/16,Education outreach event,,,,,,,21,,,,,,,0,0,0
+58,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Colorado Man Continues Family Legacy of Depot Work,10/7/16,News article,,,,,,,,,,,,,0,0,0,0
+59,Social media posting submission,,,,,,,,,,,,,,11/01/2016-11/15/2016,10,10,,,,,,,,,,,,,,,,,,,,,,,,
+60,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Packaged Munitions Require Special Handling,10/14/16,News article,,,,,,,,,,,,,0,0,0,0
+61,Social media posting submission,,,,,,,,,,,,,,10/7/16,1,1,,,,,,,,,,,,,,,,,,,,,,,,
+62,Social media posting submission,,,,,,,,,,,,,,10/14/16,1,1,,,,,,,,,,,,,,,,,,,,,,,,
+63,Individual contact,Team Member 3,10/19/16,"name lastname, titles",Outreach event,,No,The stakeholder,Digital communication,CAC member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: International Inspectors Monitor Weapons Destruction at Colorado Plant,10/31/16,News article,,,,,,,,,,,,,0,0,0,0
+65,Social media posting submission,,,,,,,,,,,,,,10/31/16,1,1,,,,,,,,,,,,,,,,,,,,,,,,
+66,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC Meeting,10/26/16,CAC (or CAC subcommittee)/advisory board meeting,,1,5,,,,2,7,,,3,12,,0,0,0
+67,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Safety Remain Focus of Pilot Testing Phase,10/28/16,News article,,,,,,,,,,,,,0,0,0,0
+68,Social media posting submission,,,,,,,,,,,,,,10/28/16,1,1,,,,,,,,,,,,,,,,,,,,,,,,
+69,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Emergency Preparedness Training Aids in Fire Response,11/3/16,News article,,,,,,,,,,,,,0,0,0,0
+70,Social media posting submission,,,,,,,,,,,,,,11/3/16,1,1,,,,,,,,,,,,,,,,,,,,,,,,
+71,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at PCAPP: Oct. 2016,10/31/16,Digital communications distribution,,75,8,35,35,22,45,579,2,6,45,1838,,0,0,0
+72,Social media posting submission,,,,,,,,,,,,,,11/16/2016-11/30/2016,8,8,,,,,,,,,,,,,,,,,,,,,,,,
+74,Social media posting submission,,,,,,,,,,,,,,10/26/16,,,,1,,Simulated Munitions Prepare Colorado Plant for Operations,,,,,,,,,,,,,,,,,,,,
+76,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Colorado CAC Live Streaming Video Distribution,10/27/16,Digital communications distribution,,,10,,,,,,,,,13,,0,0,0
+77,Individual contact,Team Member 2,10/26/16,"name lastname, titles",Friend/family/coworker/neighbor,,No,The stakeholder,In-person,Emergency management,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78,Individual contact,Team Member 2,10/27/16,"name lastname, titles",Friend/family/coworker/neighbor,,No,The outreach team,Digital communication,Emergency management,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79,Individual contact,Team Member 2,10/27/16,"name lastname, titles",Friend/family/coworker/neighbor,,No,The outreach team,Digital communication,CAC member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80,Individual contact,Team Member 2,10/26/16,"name lastname, titles",Advertisement,,Yes,The outreach team,In-person,Local community member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81,Individual contact,Team Member 2,10/27/16,"name lastname, titles",Advertisement,,No,The outreach team,Digital communication,Local community member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+82,Individual contact,Team Member 2,10/24/16,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The outreach team,Digital communication,Business & economic development group member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+83,Individual contact,Team Member 2,10/27/16,"name lastname, titles",Friend/family/coworker/neighbor,,No,The outreach team,Digital communication,Business & economic development group member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,10/27/16,Digital communications distribution,,,1,,,1,4,,,,15,46,,0,0,0
+85,Individual contact,Team Member 4,11/4/16,"name lastname, titles",Don't know - did not ask,,Yes,The outreach team,In-person,Other (please specify):,Local Political Candidate,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,11/7/16,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+87,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/31/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+88,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/1/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+89,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/2/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+90,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/3/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+91,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,PWG Meeting,10/26/16,CAC (or CAC subcommittee)/advisory board meeting,,,5,,,,,3,,,2,11,,0,0,0
+92,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,BUG Meeting,10/26/16,CAC (or CAC subcommittee)/advisory board meeting,,,5,,,,,,3,,2,11,,0,0,0
+94,Social media posting submission,,,,,,,,,,,,,,10/01/2016-10/15/2016,9,9,,,,,,,,,,,,,,,,,,,,,,,,
+95,Social media posting submission,,,,,,,,,,,,,,10/16/2016-10/31/2016,6,6,,,,,,,,,,,,,,,,,,,,,,,,
+96,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,11/14/16,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+97,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/7/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+98,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/8/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+99,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/9/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+100,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/10/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+101,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome Message from SPM,11/3/16,Workforce event,,,,,,,,,,,,1,,1,0,0
+102,Individual contact,Team Member 1,11/3/16,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,Media,,No,No,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CSU-Pueblo Etiquette Dinner,11/10/16,Networking event,,19,,,,,,,130,,,1,,0,0,0
+104,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome Message from SPM,11/9/16,Workforce event,,,,,,,,,,,,5,,5,0,0
+105,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Training Facility Tour,11/8/16,Tour,,,,,,,,,,,,1,9,0,0,0
+106,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Southern Colorado Press Club Monthly Membership Meeting,11/8/16,Networking event,,29,,,,,,2,,,,4,,0,0,0
+107,Individual contact,Team Member 1,11/10/16,"name lastname, titles",Don't know - did not ask,,Yes,The stakeholder,Digital communication,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+108,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Pueblo Chieftain Veterans Day Parade,11/12/16,Information booth/exhibit,,,,,,,,22,,,,,,0,0,0
+109,Social media posting submission,,,,,,,,,,,,,,11/18/16,,,1,,,HD 155MM Processed Munitions for Scrap Disposal 31 October 2016,,,,,,,,,,,,,,,,,,,,
+110,Individual contact,Team Member 4,11/15/16,"name lastname, titles",Other (please specify),New CAC Member,Yes,The outreach team,In-person,CAC member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+111,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,"Tour: Col. Arthur B. Cajigal, Command Surgeon, JMC",11/3/16,Tour,,,,,,,,,,,,3,,0,0,0
+112,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,PEO ACWA Quarterly Brief-Special Pueblo Start Up Edition July-Sep2016,11/1/16,Digital communications distribution,,6,9,,,12,3,,,,6,1750,,0,0,0
+113,Individual contact,Team Member 2,11/3/16,"name lastname, titles",Friend/family/coworker/neighbor,,No,The stakeholder,Outreach office visitor/walk-in,Community advisory group member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+114,Individual contact,Team Member 2,11/3/16,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The outreach team,Digital communication,Elected official,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+115,Individual contact,Team Member 2,11/1/16,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The outreach team,Telephone,Elected official,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+116,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,11/2/16,Digital communications distribution,,,1,,,1,4,,,,14,46,,0,0,0
+117,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,11/3/16,Digital communications distribution,,,1,,,1,4,,,,14,46,,0,0,0
+118,Individual contact,Team Member 2,11/9/16,"name lastname, titles",Friend/family/coworker/neighbor,,No,The outreach team,Digital communication,Community advisory group member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+119,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,11/11/16,Digital communications distribution,,,1,,,1,4,,,,14,46,,0,0,0
+120,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,11/12/16,Digital communications distribution,,,1,,,1,4,,,,14,46,,0,0,0
+121,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/14/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+122,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/15/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+123,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/16/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+124,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/17/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+125,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,11/21/16,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+126,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Southern Colorado Press Club Board of Directors Meeting,11/18/16,Networking event,,4,,,,,,2,,2,,1,,0,0,0
+127,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Turkey Giveaway at Coop Care,11/18/16,Workforce event,,10,,,,,,,,1,,5,,0,0,0
+128,Individual contact,Team Member 1,11/14/16,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+129,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,11/28/16,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+130,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/21/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+131,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/22/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+132,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/23/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+133,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,SPM Welcome Message,11/23/16,Workforce event,,,,,,,,,,,,8,,8,0,0
+134,Individual contact,Team Member 1,11/21/16,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,Media,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+135,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Emergency Preparedness Training Aids in Fire Response,11/3/16,News article,,,,,,,,,,,,,0,0,0,0
+136,Social media posting submission,,,,,,,,,,,,,,11/3/16,1,1,,,,,,,,,,,,,,,,,,,,,,,,
+137,Social media posting submission,,,,,,,,,,,,,,11/16/2016-11/30/2016,8,8,,,,,,,,,,,,,,,,,,,,,,,,
+138,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,news article: Colorado Community Serves Dual Military Roles,11/10/16,News article,,,,,,,,,,,,,0,0,0,0
+139,Social media posting submission,,,,,,,,,,,,,,11/10/16,1,1,,,,,,,,,,,,,,,,,,,,,,,,
+140,Individual contact,Team Member 3,11/14/16,"name lastname, titles",Outreach event,,No,The stakeholder,Digital communication,CAC member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+141,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Demil Plant Secondary Waste Products Processed Off Site,11/23/16,News article,,,,,,,,,,,,,0,0,0,0
+142,Social media posting submission,,,,,,,,,,,,,,11/23/16,2,2,,,,,,,,,,,,,,,,,,,,,,,,
+143,Social media posting submission,,,,,,,,,,,,,,12/01/2016-12/15/2016,5,5,,,,,,,,,,,,,,,,,,,,,,,,
+144,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,"news article: Turkey Time, Thanks to PCAPP Employees",11/23/16,News article,,,,,,,,,,,,,0,0,0,0
+145,Individual contact,Team Member 3,11/10/16,"name lastname, titles",Outreach event,,No,The stakeholder,In-person,CAC member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146,Social media posting submission,,,,,,,,,,,,,,11/29/16,1,,,1,,Robotic Systems Washout Chemical Munitions in Colorado,,,,,,,,,,,,,,,,,,,,
+147,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,12/5/16,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+148,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/28/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+149,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/29/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+150,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,11/30/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+151,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,12/1/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+152,Social media posting submission,,,,,,,,,,,,,,10/26/16,,,,,1,,,,,,,,,,,,,,,,,,,,,
+153,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,PCAPP Message to Stakeholders,12/2/16,Digital communications distribution,,60,10,32,32,22,89,284,56,49,3,60,1350,0,0,0
+154,Individual contact,Team Member 2,12/2/16,"name lastname, titles",Friend/family/coworker/neighbor,,No,The stakeholder,Digital communication,Local community member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+155,Individual contact,Team Member 2,12/1/16,"name lastname, titles",Friend/family/coworker/neighbor,,No,The stakeholder,Digital communication,CAC member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+156,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,12/2/16,Digital communications distribution,,,1,,,1,4,,,,15,45,,0,0,0
+157,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,12/5/16,Digital communications distribution,,,1,,,1,4,,,,14,46,,0,0,0
+158,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,11/28/16,News article,,,1,,,1,4,,,,14,46,,0,0,0
+161,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,12/12/16,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+162,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,12/5/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+163,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,12/6/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+164,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,12/7/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+165,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,12/8/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+166,Social media posting submission,,,,,,,,,,,,,,12/8/16,1,1,1,,,Colorado Chemical Weapons Destruction: 2016 Year in Review,,,,,,,,,,,,,,,,,,,,
+167,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Colorado State CSEPP IPT,12/14/16,Briefing/update,,,,,,,37,,,,,,,0,0,0
+168,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,PWG Meeting,12/14/16,CAC (or CAC subcommittee)/advisory board meeting,,,4,,,,,2,,,5,10,,0,0,0
+169,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,BUG Meeting,12/14/16,CAC (or CAC subcommittee)/advisory board meeting,,,4,,,,,2,,,5,10,,0,0,0
+170,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,12/19/16,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+171,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,12/12/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+172,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,12/13/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+173,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,12/14/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+174,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,12/15/16,Workforce event,,,,,,,,,,,,1300,,0,0,0
+175,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome Message,12/14/16,Workforce event,,,,,,,,,,,,1,,1,0,0
+176,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Southern Colorado Press Club Mixer,12/13/16,Networking event,,10,,,,,,,3,4,,1,,0,0,0
+177,Individual contact,Team Member 1,12/13/16,"name lastname, titles",Don't know - did not ask,,Yes,The outreach team,In-person,Media,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+178,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Operations Paused at Pueblo Pilot Plant,12/2/16,News article,,,,,,,,,,,,,0,0,0,0
+179,Social media posting submission,,,,,,,,,,,,,,12/2/16,1,1,,,,,,,,,,,,,,,,,,,,,,,,
+180,Social media posting submission,,,,,,,,,,,,,,12/16/2016-12/31/2016,8,8,,,,,,,,,,,,,,,,,,,,,,,,
+181,Social media posting submission,,,,,,,,,,,,,,12/1/16,,,,1,,Robotic Systems Washout Chemical Munitions in Coloardo,,,,,,,,,,,,,,,,,,,,
+182,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,First Presbyterian Men's Group presentation,12/6/16,Briefing/update,,,,,13,,,,,,,,,13,13,12
+183,Individual contact,Team Member 3,12/9/16,"name lastname, titles",Outreach event,,No,The stakeholder,In-person,Local school,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+184,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,"news article: Heat Reduces Equipment, Waste Contamination at Pilot Plant",12/14/16,News article,,,,,,,,,,,,,0,0,0,0
+185,Social media posting submission,,,,,,,,,,,,,,12/14/16,1,1,,,,,,,,,,,,,,,,,,,,,,,,
+186,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC Meeting,12/14/16,CAC (or CAC subcommittee)/advisory board meeting,,2,6,,1,,3,8,,,5,9,,0,0,0
+187,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Outreach Overview presentation to CAC,12/14/16,Briefing/update,,2,6,,1,,3,8,,,5,9,,0,0,0
+188,Social media posting submission,,,,,,,,,,,,,,01/01/2017-01/15/2017,7,7,,,,,,,,,,,,,,,,,,,,,,,,
+189,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Message to Stakeholders,12/8/16,Digital communications distribution,,60,10,32,32,22,89,284,56,49,3,60,1350,0,0,0
+190,Individual contact,Team Member 2,12/9/16,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The outreach team,Telephone,Business & economic development group member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+191,Individual contact,Team Member 2,12/5/16,"name lastname, titles",Newspaper,,Yes,The stakeholder,Outreach office visitor/walk-in,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+192,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,12/2/16,Digital communications distribution,,,1,,,1,4,,,,14,46,,0,0,0
+193,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,12/3/16,Digital communications distribution,,,1,,,1,4,,,,14,46,,0,0,0
+194,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,12/5/16,Digital communications distribution,,,1,,,1,4,,,,14,46,,0,0,0
+195,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,12/8/16,Digital communications distribution,,,1,,,1,4,,,,14,46,,0,0,0
+196,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,12/9/16,Digital communications distribution,,,1,,,1,4,,,,14,46,,0,0,0
+197,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,12/10/16,Digital communications distribution,,,1,,,1,4,,,,14,46,,0,0,0
+198,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Colorado CAC Live Streaming Video Distribution,12/15/16,Digital communications distribution,,,9,,,1,,,,,,15,,0,0,0
+199,Individual contact,Team Member 2,12/16/16,"name lastname, titles",Friend/family/coworker/neighbor,,No,The stakeholder,Digital communication,CAC member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+200,Individual contact,Team Member 2,12/12/16,"name lastname, titles",Friend/family/coworker/neighbor,,No,The outreach team,Digital communication,Business & economic development group member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,12/14/16,Digital communications distribution,,,1,,,1,4,,,,14,46,,0,0,0
+202,Individual contact,Team Member 2,11/16/16,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Business & economic development group member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+203,Individual contact,Team Member 2,12/28/16,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,PCAPP workforce member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+204,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Information Distribution: This Month at PCAPP - December 2016,12/30/16,Digital communications distribution,,126,10,35,35,32,54,579,2,6,48,2306,,0,0,0
+205,Individual contact,Team Member 2,12/30/16,"name lastname, titles",Friend/family/coworker/neighbor,,No,The outreach team,Digital communication,Emergency management,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+206,Individual contact,Team Member 2,12/30/16,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+207,Social media posting submission,,,,,,,,,,,,,,12/14/16,,,,,1,,,,,,,,,,,,,,,,,,,,,
+208,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Risk Communication Network Quarterly Meeting,10/11/16,Networking event,,,,,,,25,,,,,,,0,0,0
+209,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Pueblo Cooperative Care Center Turkey Give-Away,11/18/16,Networking event,,,,,,,,200,,,,,,0,0,0
+210,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Pueblo Cooperative Care Center Board of Directors Meeting,12/7/16,Networking event,,,,,12,,,,,,,,,0,0,0
+211,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CSU-Pueblo Alumni Association Holiday Party,12/6/16,Networking event,,,,,,,,,,25,,,,0,0,0
+212,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome Message to new employees,12/19/16,Workforce event,,,,,,,,,,,,4,,4,0,0
+213,Individual contact,Team Member 1,12/29/16,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,Oversight/regulatory agency member,,No,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+214,Individual contact,Team Member 1,12/27/16,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,Media,,No,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+215,Individual contact,Team Member 1,12/21/16,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,CAC member,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+216,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome Message to new employees,12/8/16,Workforce event,,,,,,,,,,,,9,,9,0,0
+217,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Pueblo Cooperative Care Center Board of Directors Meeting,12/7/16,Networking event,,,,,12,,,,,,,1,,0,0,0
+218,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CSU-Pueblo Alumni Association Holiday Party,12/6/16,Networking event,,11,,,,,,2,10,,,2,,0,0,0
+219,Individual contact,Team Member 1,12/7/16,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Telephone,CAC member,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+220,Individual contact,Team Member 1,12/5/16,"name lastname, titles",Don't know - did not ask,,Yes,The stakeholder,In-person,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+221,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome message to new PCAPP employees,12/2/16,Workforce event,,,,,,,,,,,,4,,4,0,0
+222,Individual contact,Team Member 1,11/30/16,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,In-person,Elected official,,No,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223,Individual contact,Team Member 1,12/2/16,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Digital communication,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224,Individual contact,Team Member 1,12/2/16,"name lastname, titles",Don't know - did not ask,,Yes,The stakeholder,Telephone,Media,,No,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+226,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Information Products: PCAPP Brochures for Career Fair,12/19/16,Information packet distribution,,,,,,,,100,,,,,,100,0,0
+228,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,1/1/17,Digital communications distribution,,,1,,,1,4,,,,14,46,,0,0,0
+229,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at PCAPP: Dec. 2016,12/30/16,Digital communications distribution,,85,8,55,55,25,45,969,6,6,45,1934,,0,0,0
+230,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: 2016 Marks Start of Operations at Colorado Pilot Plant,12/29/16,News article,,,,,,,,,,,,,0,0,0,0
+231,Social media posting submission,,,,,,,,,,,,,,12/29/16,2,2,,,,,,,,,,,,,,,,,,,,,,,,
+232,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Plans Made to Resume Operations at Pueblo Pilot Plant,12/29/16,News article,,,,,,,,,,,,,0,0,0,0
+233,Social media posting submission,,,,,,,,,,,,,,01/16/2017-01/31/2016,7,7,,,,,,,,,,,,,,,,,,,,,,,,
+234,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,1/3/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+235,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,1/9/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+236,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/3/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+237,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/4/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+238,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/5/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+239,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/9/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+240,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/10/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+241,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/11/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+242,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/12/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+243,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,1/17/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+244,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,1/23/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+245,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/17/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+246,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/18/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+247,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/19/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+248,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,1/30/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+249,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/23/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+250,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/24/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+251,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/25/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+252,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/26/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+253,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Pueblo City Schools Annual Science and Engineering Fair Awards Ceremony,1/27/17,Networking event,,,,,,,,,200,,,1,,0,0,0
+254,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Southern Colorado Press Club Board of Directors Meeting,1/27/17,Networking event,,3,,,,,,2,,3,,1,,0,0,0
+255,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Class 2 Permit Modification Public Meeting,1/25/17,Public meeting,,,2,,,,,3,,,6,12,,0,0,0
+256,Individual contact,Team Member 1,1/25/17,"name lastname, titles",Don't know - did not ask,,Yes,Don't know,In-person,Elected official,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+257,Individual contact,Team Member 1,1/24/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Telephone,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+258,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome Message to new PCAPP employees,1/19/17,Workforce event,,,,,,,,,,,,3,,3,0,0
+259,Individual contact,Team Member 1,1/19/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,Oversight/regulatory agency member,,No,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+260,Individual contact,Team Member 1,1/19/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Digital communication,Business & economic development group member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+261,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome Message Distribution to new PCAPP employees,1/5/17,Workforce event,,,,,,,,,,,,7,,7,0,0
+262,Individual contact,Team Member 1,1/4/17,"name lastname, titles",Don't know - did not ask,,Yes,The outreach team,Digital communication,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+263,Social media posting submission,,,,,,,,,,,,,,01/16/2017-01/31/2017,7,7,,,,,,,,,,,,,,,,,,,,,,,,
+264,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Message to Stakeholders regarding restart of operations at PCAPP,1/9/17,Digital communications distribution,,85,8,55,55,25,45,969,6,64,45,754,,0,0,0
+265,Social media posting submission,,,,,,,,,,,,,,02/01/2017-02/15/2017,13,13,,,,,,,,,,,,,,,,,,,,,,,,
+266,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Pilot Testing Resumes at Colorado Chemical Demilitarization Plant,1/13/17,News article,,,,,,,,,,,,,0,0,0,0
+267,Social media posting submission,,,,,,,,,,,,,,1/13/17,1,1,,,,,,,,,,,,,,,,,,,,,,,,
+268,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Study: Off-Site Shipment of Hydrolysate Deemed Safe,1/23/17,News article,,,,,,,,,,,,,0,0,0,0
+269,Social media posting submission,,,,,,,,,,,,,,1/23/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+270,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,PWG/BUG Meeting,1/25/17,CAC (or CAC subcommittee)/advisory board meeting,,1,2,,,,,4,,,4,12,,0,0,0
+271,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC Meeting,1/25/17,CAC (or CAC subcommittee)/advisory board meeting,,2,4,,,,6,7,,,4,17,,0,0,0
+272,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article:Fluorescein Sheds Light On Decontamination Skills,1/27/17,News article,,,,,,,,,,,,,0,0,0,0
+273,Social media posting submission,,,,,,,,,,,,,,1/27/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+274,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at PCAPP: January 2017,1/31/17,Digital communications distribution,,85,8,55,55,25,45,969,6,6,45,1939,,0,0,0
+275,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Comment Period Open for Pueblo Plant's Record of Environmental Consideration,2/1/17,News article,,,,,,,,,,,,,0,0,0,0
+276,Social media posting submission,,,,,,,,,,,,,,2/1/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+277,Social media posting submission,,,,,,,,,,,,,,02/16/2017-02/28/2017,11,11,,,,,,,,,,,,,,,,,,,,,,,,
+278,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,1/8/17,Digital communications distribution,,,1,,,1,4,,,,15,45,,0,0,0
+279,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,1/6/17,Digital communications distribution,,,1,,,1,4,,,,15,45,,0,0,0
+280,Individual contact,Team Member 2,1/12/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Digital communication,Media,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+281,Individual contact,Team Member 2,1/12/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Digital communication,Media,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+282,Individual contact,Team Member 2,1/12/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Digital communication,Local community member,,No,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+283,Individual contact,Team Member 2,1/11/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+284,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,1/10/17,Digital communications distribution,,,1,,,1,4,,,,15,45,,0,0,0
+285,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,1/21/17,Digital communications distribution,,,1,,,1,4,,,,15,45,,0,0,0
+286,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Information Distribution: Colorado Chemical Demilitarization Citizens' Advisory Commission Live Stream Video,1/26/17,Digital communications distribution,,,8,,,2,,,,,2,12,,0,0,0
+287,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Information Distribution: PEO ACWA Quarterly Brief - Final Edition,1/25/17,Digital communications distribution,,6,9,,,12,3,,,,6,1650,,0,0,0
+288,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Message to Stakeholders:Pilot Testing/Budget Constraints,1/24/17,Digital communications distribution,,60,10,32,32,22,89,285,56,49,60,1350,,0,0,0
+289,Individual contact,Team Member 2,1/25/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The stakeholder,In-person,Oversight/regulatory agency member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+290,Individual contact,Team Member 2,1/25/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,In-person,Emergency management,,N/A,Yes,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291,Individual contact,Team Member 2,1/27/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+292,Individual contact,Team Member 2,2/1/17,"name lastname, titles",Outreach event,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+293,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,1/24/17,Digital communications distribution,,,1,,,1,4,,,,14,45,,0,0,0
+294,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,1/25/17,Digital communications distribution,,,1,,,1,4,,,,14,45,,0,0,0
+295,Social media posting submission,,,,,,,,,,,,,,1/31/17,,,,1,,Baseline Reconfiguration: Ready-To-Process,,,,,,,,,,,,,,,,,,,,
+296,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/30/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+297,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,1/31/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+298,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/1/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+299,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/2/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+300,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,2/6/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+301,Social media posting submission,,,,,,,,,,,,,,1/25/17,,,,,1,,,,,,,,,,,,,,,,,,,,,
+302,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Information Booth: Pueblo City Schools Science Fair (2016-2017),1/27/17,Information booth/exhibit,,,,,,,,,167,,,,,13,0,0
+303,Individual contact,Team Member 2,1/26/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The outreach team,Digital communication,Oversight/regulatory agency member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+304,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Colorado Chemical Stockpile Emergency Preparedness Program (CSEPP) IPT,2/8/17,Briefing/update,,,,,,,34,,,,,,,0,0,0
+305,Individual contact,Team Member 4,2/6/17,"name lastname, titles",Advertisement,,No,The outreach team,Direct mail,Media,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+307,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,2/13/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+308,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/6/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+309,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/7/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+310,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/8/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+311,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/9/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+312,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Solution Devised for Over-Pressurized Rounds,2/17/17,News article,,,,,,,,,,,,,0,0,0,0
+313,Social media posting submission,,,,,,,,,,,,,,2/17/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+314,Social media posting submission,,,,,,,,,,,,,,03/01/2017-03/15/2017,6,6,,,,,,,,,,,,,,,,,,,,,,,,
+315,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,2/21/17,Digital communications distribution,,,2,,,,3,,,,9,36,,0,0,0
+316,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/13/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+317,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/14/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+318,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/15/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+319,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/16/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+320,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,PWG Meeting,2/22/17,CAC (or CAC subcommittee)/advisory board meeting,,,4,,,,,5,,,16,,,0,0,0
+321,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,BUG Meeting,2/22/17,CAC (or CAC subcommittee)/advisory board meeting,,,4,,,,,5,,,16,,,0,0,0
+322,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/21/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+323,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/22/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+324,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/23/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+325,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Education Outreach: Swallows Charter Academy,2/23/17,Education outreach event,,,,,,,,,39,,,,,0,1,1
+326,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,2/27/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+327,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Pueblo County Sheriff's Polar Plunge for Special Olympics,2/25/17,Networking event,,,,,,,130,80,,,,,,0,0,0
+328,Social media posting submission,,,,,,,,,,,,,,2/22/17,,,,,1,February 2017 CAC Meeting,,,,,,,,,,,,,,,,,,,,
+330,Individual contact,Team Member 2,2/9/17,"name lastname, titles",Don't know - did not ask,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+331,Individual contact,Team Member 2,2/9/17,"name lastname, titles",Don't know - did not ask,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+332,Individual contact,Team Member 2,2/9/17,"name lastname, titles",Outreach event,,No,The outreach team,Digital communication,Emergency management,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+333,Individual contact,Team Member 2,2/9/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Outreach office visitor/walk-in,CAC member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+334,Individual contact,Team Member 2,2/6/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The stakeholder,Telephone,Business & economic development group member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+335,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,2/9/17,Digital communications distribution,,,1,,,1,4,,,,15,46,,0,0,0
+336,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,2/27/17,Digital communications distribution,,,1,,,1,4,,,,15,46,,0,0,0
+337,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome Message to new employees,2/1/17,Workforce event,,,,,,,,,,,,2,,2,0,0
+338,Individual contact,Team Member 1,2/1/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Digital communication,Media,,No,Yes,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+339,Individual contact,Team Member 1,3/2/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,CAC member,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+340,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Pueblo West Women's League Tour,2/17/17,Tour,,,,,,,,45,,,,1,,0,45,40
+341,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome Message to new employees,2/15/17,Workforce event,,,,,,,,,,,,6,,6,0,0
+342,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Southern Colorado Press Club Monthly Membership Luncheon,2/14/17,Networking event,,26,,,,,,4,5,3,,2,,0,0,0
+343,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Swallows Academy Tour,2/24/17,Tour,,,,,,,,53,2,,,1,,0,0,0
+344,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Southen Colorado Board of Directors Meeting,2/24/17,Networking event,,4,,,,,,,,2,,1,,0,0,0
+345,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Pueblo Cooperative Care Board of Directors Meeting,2/23/17,Networking event,,,,,7,,,,,,,1,,0,0,0
+346,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Public Meetings for permit mods,2/22/17,Public meeting,,,4,,,,,4,,,,15,,0,0,0
+347,Individual contact,Team Member 1,2/23/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Direct mail,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+348,Individual contact,Team Member 1,2/21/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,In-person,Community advisory group member,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+349,Individual contact,Team Member 1,2/21/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Digital communication,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+350,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC Meeting,3/22/17,CAC (or CAC subcommittee)/advisory board meeting,,2,5,1,,,1,7,,,2,19,,0,0,0
+351,Social media posting submission,,,,,,,,,,,,,,03/16/2017-03/31/2017,12,11,,,,,,,,,,,,,,,,,,,,,,,,
+352,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at PCAPP: Feb. 2017,2/28/17,Digital communications distribution,,85,8,55,55,25,45,969,6,6,45,1935,,0,0,0
+353,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Hell Test Anticipates Plant Washout System Failures,2/28/17,News article,,,,,,,,,,,,,0,0,0,0
+354,Social media posting submission,,,,,,,,,,,,,,2/28/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+355,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Education Outreach: Swallows Charter Academy,2/23/17,Education outreach event,,,,,,,,,20,,,,,0,0,0
+356,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Education Outreach: John Neumann (1),3/2/17,Education outreach event,,,,,,,,,20,,,,,0,1,1
+357,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Education Outreach: John Neumann (2),3/2/17,Education outreach event,,,,,,,,,15,,,,,0,0,0
+358,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Education Outreach: John Neumann (3),3/2/17,Education outreach event,,,,,,,,,13,,,,,0,0,0
+359,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,3/6/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+360,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/27/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+361,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/28/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+362,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,2/28/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+363,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/2/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+364,Individual contact,Team Member 5,2/27/17,"name lastname, titles",Other (please specify),Online E-zine,Yes,The stakeholder,Telephone,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+365,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Pueblo Chamber of Commerce Presentation,3/9/17,Briefing/update,,109,,,,,,,,1,,,,0,0,0
+366,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,3/13/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+367,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/6/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+368,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/7/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+369,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/8/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+370,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/9/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+371,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Colorado State Patrol HAZMAT Unit Presentation,3/15/17,Briefing/update,,,,,,,6,,,,,,,6,6,6
+372,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Colorado State Patrol HAZMAT,3/15/17,Tour,,,,,,,6,,,,,,,0,0,0
+373,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,3/20/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+374,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/13/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+375,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/14/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+376,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/15/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+377,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/16/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+378,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,3/27/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+379,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/20/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+380,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/21/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+381,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/22/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+382,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/23/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+383,Social media posting submission,,,,,,,,,,,,,,3/27/17,1,1,,1,,PCAPP Staff Takes a Walk for Safety,,,,,,,,,,,,,,,,,,,,
+384,Social media posting submission,,,,,,,,,,,,,,3/27/17,1,1,1,,,Trained Workforce Overcomes Obstacles at Colorado Plant,,,,,,,,,,,,,,,,,,,,
+385,Social media posting submission,,,,,,,,,,,,,,3/23/17,1,1,,1,,Women's History Month: Kim Jackson,,,,,,,,,,,,,,,,,,,,
+387,Individual contact,Team Member 3,3/6/17,"name lastname, titles",Outreach event,,No,The stakeholder,Telephone,Business & economic development group member,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+388,Social media posting submission,,,,,,,,,,,,,,04/01/2017-04/15/3017,10,10,,,,,,,,,,,,,,,,,,,,,,,,
+389,Social media posting submission,,,,,,,,,,,,,,04/16/2017-04/30/2017,17,6,,,,,,,,,,,,,,,,,,,,,,,,
+390,Social media posting submission,,,,,,,,,,,,,,3/29/17,,,,,1,CAC Meeting_30March2017,,,,,,,,,,,,,,,,,,,,
+392,Individual contact,Team Member 5,3/31/17,"name lastname, titles",Other (please specify),News Article online,Yes,The stakeholder,Telephone,Citizen board/Commission member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+393,Individual contact,Team Member 5,3/31/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Telephone,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+394,Individual contact,Team Member 5,3/31/16,"name lastname, titles",Other (please specify),Online News Item,Yes,The stakeholder,Digital communication,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+395,Individual contact,Team Member 5,4/2/17,"name lastname, titles",Other (please specify),Online News Item,Don't know,The stakeholder,Digital communication,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+396,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,4/3/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+397,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/27/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+398,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Communicator,3/28/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+399,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/29/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+400,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,3/30/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+401,Social media posting submission,,,,,,,,,,,,,,3/24/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+402,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC Meeting,3/29/17,CAC (or CAC subcommittee)/advisory board meeting,,1,8,1,,1,2,8,,2,2,30,,0,0,0
+403,Individual contact,Team Member 2,2/27/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The stakeholder,Digital communication,Emergency management,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+404,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,3/2/17,Digital communications distribution,,,1,,,1,4,,,,15,46,,0,0,0
+405,Individual contact,Team Member 3,3/29/17,"name lastname, titles",Outreach event,,No,The outreach team,In-person,Elected official,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+406,Individual contact,Team Member 2,3/8/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The outreach team,Digital communication,Business & economic development group member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+407,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,new article: Program Leader Offers Words of Gratitude to Pueblo Community,3/30/17,News article,,,,,,,,,,,,,0,0,0,0
+409,Individual contact,Team Member 2,3/6/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The stakeholder,Digital communication,Emergency management,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+410,Social media posting submission,,,,,,,,,,,,,,3/30/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+411,Social media posting submission,,,,,,,,,,,,,,4/28/17,2,2,,,,,,,,,,,,,,,,,,,,,,,,
+413,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month of PCAPP: March 2017,3/31/17,Digital communications distribution,,75,8,45,45,25,45,627,6,6,45,1100,,0,0,0
+414,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Tour Documents: CSP HAZMAT,3/7/17,Digital communications distribution,,,,,,,7,,,,,,,0,0,0
+415,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,3/9/17,Digital communications distribution,,,1,,,1,4,,,,15,46,,0,0,0
+416,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,3/8/17,Digital communications distribution,,,1,,,1,4,,,,15,46,,0,0,0
+417,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Thank you for touring PCAPP message,3/16/17,Digital communications distribution,,,,,,,7,,,,,,,0,0,0
+418,Individual contact,Team Member 2,3/16/17,"name lastname, titles",Advertisement,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+419,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,3/14/17,Digital communications distribution,,,1,,,1,4,,,,15,46,,0,0,0
+420,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,CAC Live Stream Video,3/30/17,Digital communications distribution,,,9,,,,1,,,,2,19,,0,0,0
+421,Individual contact,Team Member 2,3/31/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The outreach team,Direct mail,CAC member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+422,Individual contact,Team Member 2,3/30/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The outreach team,Digital communication,Emergency management,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+423,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,3/28/17,Digital communications distribution,,,1,,,1,4,,,,15,46,,0,0,0
+424,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,3/29/17,Digital communications distribution,,,1,,,1,4,,,,15,46,,0,0,0
+425,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,3/31/17,Digital communications distribution,,,1,,,1,4,,,,15,46,,0,0,0
+427,Individual contact,Team Member 2,3/22/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+428,Individual contact,Team Member 2,3/23/17,"name lastname, titles",Advertisement,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+429,Individual contact,Team Member 2,3/24/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,PCAPP workforce member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+430,Individual contact,Team Member 2,3/31/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+431,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Pin Campaign Encourages Use of Workplace Ground Rules,3/24/17,News article,,,,,,,,,,,,,0,0,0,0
+432,Social media posting submission,,,,,,,,,,,,,,3/6/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+433,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Ordnance Technician Laid Foundation for Current Job,3/6/17,News article,,,,,,,,,,,,,0,0,0,0
+434,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Permit Mod Public Meetings,3/29/17,Public meeting,,,4,,,,,4,,,4,15,,0,0,0
+435,Individual contact,Team Member 1,3/30/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Digital communication,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+436,Individual contact,Team Member 1,3/29/17,"name lastname, titles",Newspaper,,Yes,The stakeholder,In-person,Local community member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+437,Individual contact,Team Member 1,3/28/17,"name lastname, titles",Other (please specify),Ars Technica article,Yes,The stakeholder,Digital communication,Media,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+438,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,SCPC Board of Directors Meeting,3/16/17,Networking event,,4,,,,,,2,,2,,1,,0,0,0
+439,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Southern Colorado Press Club Monthly Membership Luncheon,3/14/17,Networking event,,18,,,,,,,,4,,2,,0,0,0
+440,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Chamber presentation,3/9/17,Briefing/update,,100,,,,2,,,5,,,3,,0,0,0
+441,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Southern Colorado Press Club Board of Directors Meeting,3/8/17,Networking event,,1,,,,,,,,2,,1,,0,0,0
+442,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CSU-Pueblo Grad Fair,3/8/17,Networking event,,,,,,,,,30,,,1,,0,0,0
+443,Individual contact,Team Member 1,3/9/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,CAC member,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CSU-Pueblo Alumni Board of Directors Meeting,3/3/17,Networking event,,5,,,,,,5,,,,1,,0,0,0
+445,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,New Site Worker,3/1/17,Workforce event,,,,,,,,,,,,1,,1,0,0
+446,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Risk Communications Network Meeting,2/28/17,Networking event,,21,1,,,2,20,,3,,1,2,,0,0,0
+447,Individual contact,Team Member 1,2/28/17,"name lastname, titles",Don't know - did not ask,,Yes,The stakeholder,In-person,Elected official,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448,Individual contact,Team Member 1,2/28/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,CAC member,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449,Individual contact,Team Member 1,2/27/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Fax,Media,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+450,Individual contact,Team Member 2,3/22/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The outreach team,Digital communication,CAC member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+451,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,3/24/17,Digital communications distribution,,,1,,,1,4,,,,15,46,,0,0,0
+452,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,3/21/17,Digital communications distribution,,,1,,,1,4,,,,15,46,,0,0,0
+453,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,History (Channel),1/9/17,Media event,,,,,,,,,,4,,,,0,0,0
+454,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Ars Technica,2/27/17,Media event,,,,,,,,,,1,,,,0,0,0
+455,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Risk Communications Network Quarterly Meeting,2/28/17,Networking event,,,1,,,1,40,,,,8,,,0,0,0
+458,Social media posting submission,,,,,,,,,,,,,,3/16/17,,,,1,,Reject Munitions Short_v2,,,,,,,,,,,,,,,,,,,,
+459,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Pueblo Remembers WWI- Weisbrod Aircraft Museum,4/8/17,Information booth/exhibit,,,,,,,,35,,,,,,2,0,0
+460,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,4/10/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+461,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/3/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+462,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/4/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+463,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/5/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+464,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/6/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+465,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Colorado State CSEPP IPT,4/12/17,Briefing/update,,,,,,,29,,,,,,,0,0,0
+467,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,4/17/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+468,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/10/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+469,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/11/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+470,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/12/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+471,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/13/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+472,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,4/24/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+473,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/17/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+474,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/18/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+475,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/19/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+476,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/20/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+477,Individual contact,Team Member 5,4/26/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,In-person,CAC member,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+478,Individual contact,Team Member 5,4/26/17,"name lastname, titles",Don't know - did not ask,,Yes,The outreach team,In-person,Local community member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+479,Social media posting submission,,,,,,,,,,,,,,05/01/2017-05/15/2017,15,15,,,,,,,,,,,,,,,,,,,,,,,,
+480,Individual contact,Team Member 3,4/14/17,"name lastname, titles",Outreach event,,No,The stakeholder,Digital communication,Oversight/regulatory agency member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+481,Individual contact,Team Member 3,4/13/17,"name lastname, titles",Outreach event,,No,The stakeholder,Digital communication,Emergency management,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+482,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Secondary Containment System Liner Replaced at Pueblo Plant,4/15/17,News article,,,,,,,,,,,,,0,0,0,0
+483,Social media posting submission,,,,,,,,,,,,,,4/15/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+484,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Bioreactor Seeding Launches Biotreatment Activities at Pueblo Plant,4/21/17,News article,,,,,,,,,,,,,0,0,0,0
+485,Social media posting submission,,,,,,,,,,,,,,4/21/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+486,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,information booth: Boy Scouts Fair,4/22/17,Information booth/exhibit,,,,,,,,70,,,,,,30,0,0
+487,Social media posting submission,,,,,,,,,,,,,,4/21/17,1,1,,,,,,,,,,,,,,,,,,,,,,,,
+488,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC Meeting,4/26/17,CAC (or CAC subcommittee)/advisory board meeting,,1,5,,,,3,7,,,3,14,,0,0,0
+489,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,PWG Meeting,4/26/17,CAC (or CAC subcommittee)/advisory board meeting,,,,5,,,,2,,,4,7,,0,0,0
+490,Social media posting submission,,,,,,,,,,,,,,4/26/17,,,,,1,CAC Meeting,,,,,,,,,,,,,,,,,,,,
+491,Individual contact,Team Member 2,4/5/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+492,Individual contact,Team Member 2,4/7/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+493,Individual contact,Team Member 4,4/7/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+494,Individual contact,Team Member 2,4/28/17,"name lastname, titles",Advertisement,,Yes,The stakeholder,In-person,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+495,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,5/1/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+496,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/24/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+497,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/25/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+498,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/26/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+499,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,4/27/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+500,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,CAC Live Stream Video,04/27/20107,CAC (or CAC subcommittee)/advisory board meeting,,,9,,,,2,,,,,14,,0,0,0
+502,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,4/27/17,Digital communications distribution,,,1,,,1,4,,,,15,44,,0,0,0
+503,Social media posting submission,,,,,,,,,,,,,,04/01/2017-04/15/2017,10,10,,,,,,,,,,,,,,,,,,,,,,,,
+504,Social media posting submission,,,,,,,,,,,,,,04/16/2017-04/30/2017,17,6,,,,,,,,,,,,,,,,,,,,,,,,
+505,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at PCAPP: April 2017,4/28/17,Digital communications distribution,,75,8,45,45,25,45,627,6,6,45,1103,,0,0,0
+506,Social media posting submission,,,,,,,,,,,,,,05/16/2017-05/31/2017,12,12,,,,,,,,,,,,,,,,,,,,,,,,
+507,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Pueblo Cooperative Care Center Board Meeting,4/27/17,Networking event,,2,,,7,,,,,,,1,,0,0,0
+508,Individual contact,Team Member 1,4/25/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Digital communication,Media,,No,Yes,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+509,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,New Hire Welcome Message,4/10/17,Workforce event,,,,,,,,,,,,1,,1,0,0
+510,Individual contact,Team Member 1,4/11/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,Oversight/regulatory agency member,,No,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+511,Individual contact,Team Member 1,4/12/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,CAC member,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+512,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CSU-Pueblo Thundergals Luncheon,4/20/17,Networking event,,79,,,,,,10,30,,,1,,0,0,0
+513,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CASA of Pueblo Light of Hope Luncheon,4/18/17,Networking event,,329,,,150,5,,,10,,,6,,0,0,0
+514,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,BBC Tour,4/17/17,Media event,,,,,,,,,,1,,4,,1,0,0
+515,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CSU-Pueblo Alumni Associaiton Board of Directors Meeting,4/7/17,Networking event,,3,,,,,,,4,,,1,,0,0,0
+516,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Sonrise Bucket Kids Tour,4/7/17,Tour,,,,,,,,10,,,,3,,0,0,0
+517,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Southern Colorado Press Club Annual Sheepdip Event,4/6/17,Networking event,,83,,,20,,,36,,5,,1,,0,0,0
+518,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Maj. Gen. Christopher Coates Tour,4/5/17,Tour,,,,,,,,,,,,5,3,0,0,0
+519,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,New Hire Welcome Message,4/5/17,Workforce event,,,,,,,,,,,,1,,1,0,0
+520,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Pueblo Plant Considers Off-Site Shipment of Wastewater,5/2/17,News article,,,,,,,,,,,,,0,0,0,0
+521,Social media posting submission,,,,,,,,,,,,,,5/2/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+523,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Pueblo Lions Club PCAPP Update,5/4/17,Briefing/update,,,,,,,,23,,,,,,23,23,8
+524,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,5/15/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+525,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,5/8/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+526,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,5/9/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+527,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,5/10/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+528,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,5/11/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+529,Individual contact,Team Member 4,5/10/17,"name lastname, titles",Other (please specify),Previous Email from ORO,No,The outreach team,Digital communication,Media,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+530,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,new article: Wastewater Introduced into Pueblo Plant Biotreatment System,5/3/17,News article,,,,,,,,,,,,,0,0,0,0
+531,Social media posting submission,,,,,,,,,,,,,,5/3/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+532,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,Information booth: Dream Big Movie Screening,5/10/17,Information booth/exhibit,,,,,,,,30,,,,10,,10,0,0
+533,Individual contact,Team Member 3,5/8/17,"name lastname, titles",Outreach event,,No,The stakeholder,Telephone,Elected official,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+534,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Neutralization Effective in Destroying Chemical Agent,5/11/17,News article,,,,,,,,,,,,,0,0,0,0
+535,Social media posting submission,,,,,,,,,,,,,,5/11/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+536,Social media posting submission,,,,,,,,,,,,,,06/01/2017-06/15/2017,14,14,,,,,,,,,,,,,,,,,,,,,,,,
+537,Individual contact,Team Member 3,5/3/17,"name lastname, titles",Outreach event,,Yes,The outreach team,In-person,Elected official,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+538,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,CSEPP Exercise,5/3/17,CSEPP exercise,,,1,,,1,10,,,2,2,7,,0,0,0
+539,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,"Education Outreach: Central High School (Dream Big), 1",5/9/17,Education outreach event,,,,,,,,,26,,,,,0,0,0
+540,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,"Education Outreach: Central High School (Dream Big), 2",5/9/17,Education outreach event,,,,,,,,,26,,,,,0,0,0
+541,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,"Education Outreach: Central High School (Dream Big), 3",5/9/17,Education outreach event,,,,,,,,,26,,,,,0,0,0
+542,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,"Education Outreach: Central High School (Dream Big), 4",5/9/17,Education outreach event,,,,,,,,,26,,,,,0,0,0
+543,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,"Education Outreach: Central High School (Dream Big), 5",5/9/17,Education outreach event,,,,,,,,,26,,,,,0,0,0
+544,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,"Education Outreach: Central High School (Dream Big), 6",5/9/17,Education outreach event,,,,,,,,,26,,,,,0,0,0
+545,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,5/22/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+546,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,5/15/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+547,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,5/16/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+548,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,5/17/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+549,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,5/18/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+551,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,5/30/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+552,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,5/22/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+553,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,5/23/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+554,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,5/24/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+555,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,5/25/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+556,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,PCD 75th Anniversary Celebration,5/25/17,Networking event,,,3,,,,,180,,3,,14,,0,0,0
+557,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CSU-Pueblo Gala,5/20/17,Networking event,,299,,,,,,,200,,,1,,0,0,0
+558,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,United Way Annual Meeting,5/15/17,Networking event,,141,,,150,,,,,,,9,,0,0,0
+559,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Southern Colorado Press Club Monthly Membership Meeting,5/9/17,Networking event,,32,,,,,,,1,2,,1,,0,0,0
+560,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Tour for Knights of Columbus,5/4/17,Tour,,8,,,,,,,,,,,,0,0,0
+561,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CSU-Pueblo Alumni Associaiton Board of Directors Meeting,5/4/17,Networking event,,5,,,1,,,2,3,,,1,,0,0,0
+562,Social media posting submission,,,,,,,,,,,,,,5/31/17,,,,,1,May 2017 CAC,,,,,,,,,,,,,,,,,,,,
+563,Social media posting submission,,,,,,,,,,,,,,6/1/17,1,1,,1,,PCD 75th Anniversary - Event,,,,,,,,,,,,,,,,,,,,
+564,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,PWG/BUG,6/1/17,CAC (or CAC subcommittee)/advisory board meeting,,,3,,,,,2,,,1,12,,0,0,0
+565,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Pueblo Plant Successfully Treating Hydrolysate,5/24/17,News article,,,,,,,,,,,,,0,0,0,0
+566,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at PCAPP: May 2017,5/31/17,Digital communications distribution,,75,8,45,45,25,45,627,6,6,45,1109,,0,0,0
+567,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC Meeting,5/31/17,CAC (or CAC subcommittee)/advisory board meeting,,4,7,,,,5,3,,,2,9,,0,0,0
+568,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Pueblo Plant Water Recovery System Proving Successful,6/1/17,News article,,,,,,,,,,,,,0,0,0,0
+569,Social media posting submission,,,,,,,,,,,,,,5/23/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+570,Social media posting submission,,,,,,,,,,,,,,6/1/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+572,Social media posting submission,,,,,,,,,,,,,,06/16/2017-06/30/2017,11,11,,,,,,,,,,,,,,,,,,,,,,,,
+573,Individual contact,Team Member 2,5/4/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,In-person,Community advisory group member,,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+574,Individual contact,Team Member 2,5/3/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Telephone,Emergency management,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+575,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,5/5/17,Digital communications distribution,,,1,,,1,4,,,,16,45,,0,0,0
+576,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,5/3/17,Digital communications distribution,,,1,,,1,4,,,,16,45,,0,0,0
+577,Individual contact,Team Member 2,5/11/17,"name lastname, titles",Don't know - did not ask,,Don't know,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+578,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,5/11/17,Digital communications distribution,,,1,,,1,4,,,,16,45,,0,0,0
+579,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,American Medical Response Safety Jam,5/20/17,Information booth/exhibit,,,,,,,,300,,,,,,300,0,0
+580,Individual contact,Team Member 2,5/24/17,"name lastname, titles",Don't know - did not ask,,Don't know,The stakeholder,Outreach office visitor/walk-in,Local community member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+581,Individual contact,Team Member 2,5/25/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The stakeholder,In-person,Elected official,,No,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+582,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,PCD 75th Anniversary Celebration,5/25/17,Information booth/exhibit,,8,,,,2,5,40,,,,,,55,0,0
+584,Individual contact,Team Member 2,5/24/17,"name lastname, titles",Connect e-newsletter,,Don't know,The outreach team,Digital communication,Local community member,,No,Yes,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+585,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,5/25/17,Digital communications distribution,,,1,,,1,4,,,,16,45,,0,0,0
+586,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,5/27/17,Digital communications distribution,,,1,,,1,4,,,,16,45,,0,0,0
+587,Individual contact,Team Member 2,4/14/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+588,Individual contact,Team Member 2,5/23/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+589,Individual contact,Team Member 2,5/26/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+590,Individual contact,Team Member 2,5/30/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+591,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,6/5/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+592,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,5/30/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+593,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,5/31/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+594,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/1/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+595,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,5/8/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+596,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,5/1/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+597,Social media posting submission,,,,,,,,,,,,,,5/25/17,1,1,,1,,Congratulations to the Pueblo Chemical Depot - 75th Anniversary_Final,,,,,,,,,,,,,,,,,,,,
+598,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,6/12/17,Digital communications distribution,,,2,,,,3,,,,8,35,,0,0,0
+599,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/5/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+600,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/6/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+601,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/7/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+602,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/8/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+603,Social media posting submission,,,,,,,,,,,,,,6/9/17,3,3,,,,,,,,,,,,,,,,,,,,,,,,
+604,Social media posting submission,,,,,,,,,,,,,,07/01/2017-07/15/2017,8,8,,,,,,,,,,,,,,,,,,,,,,,,
+605,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Strict Guidelines for Pueblo Plant Secondary Wastes Provide Safety,6/21/17,News article,,,,,,,,,,,,,0,0,0,0
+606,Social media posting submission,,,,,,,,,,,,,,6/21/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+607,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Salt Cake Shipment Signifies Complete Plant Cycle,6/21/17,News release,,,,,,,,,,,,,0,0,0,0
+608,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Colorado Plant Achieves Munition Processing Milestone,6/22/17,News article,,,,,,,,,,,,,0,0,0,0
+609,Social media posting submission,,,,,,,,,,,,,,6/22/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+610,Social media posting submission,,,,,,,,,,,,,,6/23/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+611,Individual contact,Team Member 1,6/5/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,CAC member,,No,No,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+612,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Board of Pueblo County Commissioners Work Session,6/12/17,Public meeting,,,1,,,3,,,,,,3,,0,0,0
+613,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Permit Mod Public Meetings,5/31/17,Public meeting,,,,,,,,2,,,5,13,,0,0,0
+614,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,New Site Worker Fact Sheet Distribution,6/21/17,Workforce event,,,,,,,,,,,,3,,3,0,0
+615,Individual contact,Team Member 1,6/21/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,CAC member,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+616,Individual contact,Team Member 1,6/21/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Digital communication,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+617,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,6/19/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+618,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,6/26/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+619,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/12/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+620,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/13/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+621,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/14/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+622,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/15/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+623,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/19/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+624,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/20/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+625,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/20/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+626,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/21/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+627,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/22/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+628,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,this Month at PCAPP: June 2017,6/30/17,Digital communications distribution,,75,8,45,45,25,45,628,6,6,45,1109,,0,0,0
+629,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC Live Stream Links,6/29/17,Digital communications distribution,,,5,,,,2,,,,5,16,,0,0,0
+630,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC Meeting,6/28/17,CAC (or CAC subcommittee)/advisory board meeting,,2,7,,,,10,4,,,4,18,,0,0,0
+631,Social media posting submission,,,,,,,,,,,,,,07/16/2017-07/31/2017,10,10,,,,,,,,,,,,,,,,,,,,,,,,
+633,Social media posting submission,,,,,,,,,,,,,,6/28/17,,,,,1,CAC June Meeting,,,,,,,,,,,,,,,,,,,,
+634,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/26/17,Workforce event,,,,,,,,,,,,,1300,0,0,0
+635,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/27/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+636,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/28/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+637,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,6/29/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+638,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,7/3/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+639,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,New PCAPP workers,6/21/17,Workforce event,,,,,,,,,,,,3,,3,0,0
+640,Individual contact,Team Member 1,6/22/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,CAC member,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641,Individual contact,Team Member 1,7/21/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Digital communication,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+642,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 6,Steel Works Summer Science Camp,6/29/17,Education outreach event,,,,,,,,,18,,,,,1,0,0
+643,Social media posting submission,,,,,,,,,,,,,,7/6/17,1,1,,1,,Pueblo Chemical Depot Welcomes New Commander,,,,,,,,,,,,,,,,,,,,
+644,Social media posting submission,,,,,,,,,,,,,,7/6/17,1,1,,1,,New Pueblo Chemical Depot Commander Introduced to Colorado Panel,,,,,,,,,,,,,,,,,,,,
+645,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,7/10/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+646,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,7/5/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+647,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,7/6/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+648,Individual contact,Team Member 5,7/13/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,In-person,CAC member,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+649,Social media posting submission,,,,,,,,,,,,,,08/01/2017-08/15/2017,8,8,,,,,,,,,,,,,,,,,,,,,,,,
+650,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Pueblo Technicians Streamline Air Monitoring,7/20/17,News article,,,,,,,,,,,,,0,0,0,0
+651,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Program Executive Officer Visits Pueblo Plant,7/20/17,News article,,,,,,,,,,,,,0,0,0,0
+652,Social media posting submission,,,,,,,,,,,,,,7/20/17,2,4,,,,,,,,,,,,,,,,,,,,,,,,
+653,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,CAC Live Stream Video,6/2/17,CAC (or CAC subcommittee)/advisory board meeting,,,9,,,,2,,,,,14,,0,0,0
+654,Individual contact,Team Member 2,5/31/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Digital communication,CAC member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+657,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Information Products: PCAPP Brochures for Career Fair,5/31/17,Information packet distribution,,,,,,,,300,,,,,,300,0,0
+658,Individual contact,Team Member 2,6/7/17,"name lastname, titles",Advertisement,,Yes,The stakeholder,Outreach office visitor/walk-in,Business & economic development group member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+659,Individual contact,Team Member 2,6/7/17,"name lastname, titles",Advertisement,,Yes,The stakeholder,Outreach office visitor/walk-in,Business & economic development group member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+660,Individual contact,Team Member 2,7/12/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Community advisory group member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+661,Individual contact,Team Member 2,7/17/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+662,Individual contact,Team Member 3,7/18/17,"name lastname, titles",Advertisement,,Yes,The stakeholder,Outreach office visitor/walk-in,Other (please specify):,out of town visitor,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+663,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,6/14/17,Digital communications distribution,,,1,,,1,4,,,,14,45,,0,0,0
+664,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,7/4/17,Digital communications distribution,,,1,,,1,4,,,,14,45,,0,0,0
+665,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,7/8/17,Digital communications distribution,,,1,,,1,4,,,,14,45,,0,0,0
+666,Individual contact,Team Member 2,7/13/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Outreach office visitor/walk-in,CAC member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+667,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,7/17/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+668,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,7/24/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+669,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,7/10/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+670,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,7/11/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+671,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,7/12/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+672,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,7/13/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+673,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,7/17/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+674,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,7/18/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+675,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,7/19/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+676,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,7/20/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+677,Social media posting submission,,,,,,,,,,,,,,7/26/17,,,,,1,,,,,,,,,,,,,,,,,,,,,
+678,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Permitting Working Group Meeting,7/26/17,CAC (or CAC subcommittee)/advisory board meeting,,,3,,,,,1,,,3,18,,0,0,0
+679,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Biotreatment Utilization Group,7/26/17,CAC (or CAC subcommittee)/advisory board meeting,,,3,,,,,1,,,3,15,,0,0,0
+680,Social media posting submission,,,,,,,,,,,,,,8/18/17,1,1,,1,,ACWA Celebrates Colorado Day Š—– 2017,,,,,,,,,,,,,,,,,,,,
+681,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,7/31/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+682,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,7/24/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+683,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,7/25/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+684,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,7/26/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+685,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,7/27/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+686,Individual contact,Team Member 5,7/28/17,"name lastname, titles",Other (please specify),Email Blast from Site Project Manager,Yes,The stakeholder,Telephone,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+687,Individual contact,Team Member 5,7/28/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,In-person,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+688,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,News Article: Pueblo Plant Considers Off-Site Shipment of Wastewater,5/2/17,News article,,,,,,,,,,,,,0,0,0,0
+689,Individual contact,Team Member 6,8/3/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,In-person,Local community member,,No,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+690,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,7/31/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+691,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/1/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+692,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/2/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+693,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/3/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+694,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,8/7/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+695,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome Message Distribution,8/3/17,Workforce event,,,,,,,,,,,,2,,2,0,0
+696,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Southern Colorado Press Club Board of Directors Meeting,7/31/17,Networking event,,3,,,2,,,1,,2,,1,,0,0,0
+697,Individual contact,Team Member 1,7/31/17,"name lastname, titles",Don't know - did not ask,,Yes,The stakeholder,Telephone,Media,,No,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+698,Individual contact,Team Member 1,7/31/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Digital communication,Media,,No,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+699,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CSU-Pueblo Alumni Association Board of Directors Retreat,7/29/17,Networking event,,6,,,1,,,,6,1,,1,,0,0,0
+700,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,SCPC Executive Board Meeting,7/27/17,Networking event,,,,1,,,,,,2,,1,,0,0,0
+701,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Public Meetings,7/26/17,Public meeting,,,4,,,,,,,,4,14,,0,0,0
+702,Individual contact,Team Member 1,7/26/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Direct mail,Media,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+703,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Dream Big Movie Premiere,7/21/17,Information booth/exhibit,,,,,,,,150,,,,1,,100,0,0
+704,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Tour for Pueblo Plex,7/21/17,Tour,,,,,1,,,,,,,2,,0,0,0
+705,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Pueblo Cooperative Care Center Board of Directors Meeting,7/20/17,Networking event,,2,,,5,,,,,,,1,,0,0,0
+706,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome Message to new PCAPP employees,7/19/17,Workforce event,,,,,,,,,,,,3,,3,0,0
+707,Individual contact,Team Member 1,7/6/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,Oversight/regulatory agency member,,No,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+708,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,7/18/17,Digital communications distribution,,,1,,,1,4,,,,14,45,,0,0,0
+709,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Information Distribution: Message to Stakeholders and Media,7/28/17,Digital communications distribution,,60,10,32,32,22,89,284,56,49,3,60,1350,0,0,0
+710,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Information Distribution: Colorado Chemical Demilitarization Citizens' Advisory Commission Live Stream Video,7/27/17,CAC (or CAC subcommittee)/advisory board meeting,,,9,,,,2,,,,,14,,0,0,0
+711,Individual contact,Team Member 2,7/26/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,In-person,CAC member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+712,Individual contact,Team Member 2,7/27/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Direct mail,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+713,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,7/28/17,Digital communications distribution,,,1,,,1,4,,,,14,45,,0,0,0
+714,Social media posting submission,,,,,,,,,,,,,,7/7/17,1,1,1,,,Pueblo Plant Safely Disposes of Secondary Waste,,,,,,,,,,,,,,,,,,,,
+715,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC Meeting,7/26/17,CAC (or CAC subcommittee)/advisory board meeting,,2,5,,1,,5,,,,4,14,,0,0,0
+716,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,new article: Washout System Tested for Optimal Performance,7/28/17,News article,,,,,,,,,,,,,0,0,0,0
+717,Social media posting submission,,,,,,,,,,,,,,7/28/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+718,Social media posting submission,,,,,,,,,,,,,,08/16/2017-08/31/2017,10,10,,,,,,,,,,,,,,,,,,,,,,,,
+719,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Temporary Off-Site Shipment of Wastewater Begins,8/1/17,News article,,,,,,,,,,,,,0,0,0,0
+720,Social media posting submission,,,,,,,,,,,,,,8/1/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+721,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at PCAPP: July 2017,7/31/17,Digital communications distribution,,75,8,45,45,25,45,627,6,6,45,1110,,0,0,0
+722,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,8/2/17,Digital communications distribution,,,1,,,1,4,,,,14,45,,0,0,0
+723,Individual contact,Team Member 2,8/1/17,"name lastname, titles",Social media,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+725,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Interviews with Associated Press Denver Bureau and KRDO-TV,7/28/17,Media event,,,,,,,,,,2,,,,0,0,0
+726,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,8/14/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+727,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/7/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+728,Individual contact,Team Member 6,8/10/17,"name lastname, titles",Outreach event,,No,The outreach team,In-person,Elected official,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+729,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/8/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+730,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/9/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+731,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/10/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+732,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,McHarg Park Anniversary Celebration,8/10/17,Information booth/exhibit,,,,,2,1,4,50,,,,,,4,4,4
+734,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 5,Presentation:  Colorado CSEPP IPT,8/16/17,Briefing/update,,,,,,,32,,,,,,,0,0,0
+735,Social media posting submission,,,,,,,,,,,,,,8/17/17,1,1,,1,,Time Lapse Shows Construction of Hydrolysate Loading Station,,,,,,,,,,,,,,,,,,,,
+736,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,8/21/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+737,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/14/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+738,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/15/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+739,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/16/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+740,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/17/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+741,Social media posting submission,,,,,,,,,,,,,,8/25/17,1,1,,1,,ACWA Celebrates Women's Equality Day,,,,,,,,,,,,,,,,,,,,
+742,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,8/28/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+743,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/21/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+744,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/22/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+745,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/23/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+746,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/24/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+747,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at PCAPP: August 2017,8/31/17,Digital communications distribution,,75,8,45,45,25,45,627,6,6,45,1059,,0,0,0
+748,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Proper Mask Fit Protects Workers from Hazards,8/29/17,News article,,,,,,,,,,,,,0,0,0,0
+749,Social media posting submission,,,,,,,,,,,,,,8/29/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+750,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Core Principle Extends Beyond Pueblo Worksite,9/1/17,News article,,,,,,,,,,,,,0,0,0,0
+751,Social media posting submission,,,,,,,,,,,,,,9/1/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+752,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Mask Testing Ensures Maximum Workforce Protection,8/23/17,News article,,,,,,,,,,,,,0,0,0,0
+753,Social media posting submission,,,,,,,,,,,,,,8/23/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+754,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Static Detonation Chamber Deflagrates Energetics,8/18/17,News article,,,,,,,,,,,,,0,0,0,0
+755,Social media posting submission,,,,,,,,,,,,,,8/18/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+756,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: First Off-Site Shipment of Wastewater Successful,8/11/17,News article,,,,,,,,,,,,,0,0,0,0
+757,Social media posting submission,,,,,,,,,,,,,,8/11/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+758,Individual contact,Team Member 3,8/8/17,"name lastname, titles",Outreach event,,No,The outreach team,Telephone,Elected official,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+759,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,9/5/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+760,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/28/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+761,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/29/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+762,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/30/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+763,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,8/31/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+764,Individual contact,Team Member 2,8/7/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The outreach team,In-person,Elected official,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+765,Individual contact,Team Member 2,8/8/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The outreach team,Digital communication,Emergency management,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+766,Individual contact,Team Member 2,8/8/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The outreach team,Digital communication,Emergency management,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+767,Individual contact,Team Member 2,8/7/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Digital communication,Local community member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+768,Individual contact,Team Member 2,8/14/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The outreach team,In-person,Elected official,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+769,Individual contact,Team Member 2,8/14/17,"name lastname, titles",Friend/family/coworker/neighbor,,No,The stakeholder,Digital communication,Emergency management,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+770,Individual contact,Team Member 2,8/9/17,"name lastname, titles",Don't know - did not ask,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+771,Individual contact,Team Member 2,8/3/17,"name lastname, titles",Don't know - did not ask,,Yes,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+772,Individual contact,Team Member 2,8/14/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Outreach office visitor/walk-in,Local community member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+773,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,New PCAPP Employee Welcome Message,8/16/17,Workforce event,,,,,,,,,,,,5,,5,0,0
+774,Individual contact,Team Member 1,8/7/17,"name lastname, titles",Don't know - did not ask,,No,The outreach team,Direct mail,Media,,No,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+775,Individual contact,Team Member 1,8/7/17,"name lastname, titles",Don't know - did not ask,,Yes,The stakeholder,Direct mail,Business & economic development group member,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+776,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CSU-P Alumni Association Board Meeting,9/1/17,Networking event,,4,,,,,,1,5,,,1,,0,0,0
+777,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,New PCAPP employee Welcome Message,8/31/17,Workforce event,,,,,,,,,,,,8,,8,0,0
+778,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Junior Achievement Corporate Recognition Event,8/24/17,Networking event,,11,,,,,,,7,,,2,,0,0,0
+779,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,8/31/17,Digital communications distribution,,,1,,,1,4,,,,15,43,,0,0,0
+780,Social media posting submission,,,,,,,,,,,,,,09/01/2017-09/15/2017,5,5,,,,,,,,,,,,,,,,,,,,,,,,
+781,Social media posting submission,,,,,,,,,,,,,,09/16/2017-09/30/2017,9,9,,,,,,,,,,,,,,,,,,,,,,,,
+782,Social media posting submission,,,,,,,,,,,,,,9/7/17,5,5,,,,,,,,,,,,,,,,,,,,,,,,
+783,Social media posting submission,,,,,,,,,,,,,,9/8/17,3,3,,,,,,,,,,,,,,,,,,,,,,,,
+784,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Fort Carson,9/7/17,Tour,,,,,,,,,,,3,,,0,0,0
+785,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,9/11/17,Digital communications distribution,,,2,,,,3,,,,8,36,,0,0,0
+786,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,9/5/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+787,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,9/6/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+788,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,9/7/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+789,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: First Year of Pueblo Plant Pilot Testing Complete,9/8/17,News article,,,,,,,,,,,,,0,0,0,0
+791,Social media posting submission,,,,,,,,,,,,,,9/8/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+792,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Fair Teaches Safety through Interactive Learning,9/14/17,News article,,,,,,,,,,,,,0,0,0,0
+793,Social media posting submission,,,,,,,,,,,,,,9/14/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+794,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Off-site Shipment of Wastewater Complete,9/14/17,News article,,,,,,,,,,,,,0,0,0,0
+795,Social media posting submission,,,,,,,,,,,,,,9/14/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+796,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,9/18/17,Digital communications distribution,,,2,,,,3,,,,10,36,,0,0,0
+797,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,9/11/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+798,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,9/12/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+799,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,9/13/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+800,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,9/14/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+801,Individual contact,Team Member 5,9/18/17,"name lastname, titles",Don't know - did not ask,,Yes,The stakeholder,Digital communication,Other (please specify):,Video Documentary Producer,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+804,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,9/25/17,Digital communications distribution,,,2,,,,3,,,,10,36,,0,0,0
+805,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,9/18/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+806,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,9/19/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+807,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,9/20/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+808,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,9/21/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+809,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome Message,9/21/17,Workforce event,,,,,,,,,,,,1,,1,,
+810,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,United Way of Pueblo County Annual Campaign Kick Off,9/19/17,Networking event,,227,,,50,5,,60,,2,,6,,0,0,0
+811,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome Message,9/14/17,Workforce event,,,,,,,,,,,,13,,13,0,0
+812,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CSU-Pueblo Presentation,9/13/17,Briefing/update,,,,,,,,,70,,,1,,0,0,0
+813,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Southern Colorado Press Club Monthly Membership Meeting,9/12/17,Networking event,,24,,,,,,,7,2,,2,,0,0,0
+814,Individual contact,Team Member 1,9/12/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,In-person,Local community member,,No,No,No,,,,,,,,,,,,,,,,,,,,,,,,,,,
+815,Individual contact,Team Member 1,9/7/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Digital communication,Local school,,No,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+816,Social media posting submission,,,,,,,,,,,,,,9/25/17,1,2,1,,,Safety Suits Protect Colorado Plant Workforce During Operations,,,,,,,,,,,,,,,,,,,,
+817,Social media posting submission,,,,,,,,,,,,,,9/27/17,,,,,1,,,,,,,,,,,,,,,,,,,,,
+818,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,YMCA Vendor Village,9/9/17,Information booth/exhibit,,,,,,,,55,,,,,,55,0,0
+819,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,Message to Stakeholders: State of the PCAPP Plant,9/7/17,Digital communications distribution,,60,10,32,32,22,89,283,56,51,60,1350,,0,0,0
+820,Individual contact,Team Member 2,9/14/17,"name lastname, titles",Don't know - did not ask,,No,The stakeholder,Outreach office visitor/walk-in,CAC member,,N/A,N/A,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,
+821,Individual contact,Team Member 2,9/22/17,"name lastname, titles",Friend/family/coworker/neighbor,,Yes,The stakeholder,Outreach office visitor/walk-in,PCAPP workforce member,,N/A,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,
+822,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,9/26/17,Digital communications distribution,,,1,,,1,4,,,,14,45,,0,0,0
+823,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,News Clipping,9/27/17,Digital communications distribution,,,1,,,1,4,,,,15,44,,0,0,0
+824,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,9/25/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+825,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,9/26/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+826,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,9/27/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+827,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,9/28/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+828,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Welcome Message from SPM,9/28/17,Workforce event,,,,,,,,,,,,9,,9,0,0
+829,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,CSU-P Friends & Scholars Reception,9/28/17,Networking event,,29,,,,,,,70,,,1,,0,0,0
+830,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Fort Carson 82nd Chemcial Reconnaissance Detachment Tour,9/28/17,Tour,,,,,,,,,,,,1,12,0,0,0
+831,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Permit Modification Public Meeting,9/27/17,Public meeting,,,4,,,,,3,,,4,13,,0,0,0
+832,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,This Month at PCAPP: Sept. 2017,9/29/17,Digital communications distribution,,75,8,55,55,25,45,656,6,6,45,1159,,0,0,0
+833,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,CAC Meeting,9/27/17,CAC (or CAC subcommittee)/advisory board meeting,,1,5,,,,2,9,,,4,22,,0,0,0
+834,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 3,news article: Redesigned Air Pack Protects Workforce,9/27/17,News article,,,,,,,,,,,,,0,0,0,0
+835,Social media posting submission,,,,,,,,,,,,,,9/27/17,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+836,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,PCD/ORO Mailing List Distribution,10/3/17,Workforce event,,,,,,,,,,,,5,,0,0,0
+837,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 2,CAC Live Stream Video,10/2/17,Digital communications distribution,,,9,,,,1,,,,3,16,,0,0,0
+838,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Weekly Report,10/9/17,Digital communications distribution,,,2,,,,3,,,,10,36,,0,0,0
+839,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/2/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+840,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 4,Communicator,10/3/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+841,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/4/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
+842,Event or distribution,,,,,,,,,,,,,,,,,,,,,Team Member 1,Communicator,10/5/17,Workforce event,,,,,,,,,,,,1300,,0,0,0
