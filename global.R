@@ -17,6 +17,7 @@ library(knitr)
 library(rmarkdown)
 library(openxlsx)
 library(kableExtra)
+library(reshape2)
 require(lubridate)
 source('./R/data_prep.R')
 
