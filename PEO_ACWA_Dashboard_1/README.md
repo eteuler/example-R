@@ -4,4 +4,4 @@ R Shiny dashboard
 
 
 
-install.packages(c("tidyr", "dplyr", "shiny", "shinythemes", "shinydashboard", "DT", "formattable", "rhandsontable", "rmarkdown", "gdata", "knitr", "openxlsx", "kableExtra", "lubridate"))
+install.packages(c("tidyr", "dplyr", "shiny", "shinythemes", "shinydashboard", "DT", "formattable", "rhandsontable", "rmarkdown", "gdata", "knitr", "openxlsx", "kableExtra", "lubridate","reshape2"))
